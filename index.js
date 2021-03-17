@@ -1,11 +1,10 @@
 const fs = require("fs");
+const Crypto = require("crypto");
 const Axios = require("Axios");
 const yargs = require("yargs/yargs");
 const { hideBin } = require("yargs/helpers");
 const csv = require('csv-parser');
-
 const Language = require("./jsonHp.language.json");
-// const zhLanguage = require("./language_zh.json");
 
 const translationInformation = () => {
 	const noTrad = Language.filter((line) => {
@@ -59,7 +58,18 @@ const readOneSkyFile = async (filename) => {
 	});
 }
 
+const createHashFromFile = (filePath) => new Promise(resolve => {
+  const hash = Crypto.createHash('sha256');
+  fs.createReadStream(filePath).on('data', data => hash.update(data)).on('end', () => resolve(hash.digest('hex')));
+});
+
 const argv = yargs(hideBin(process.argv))
+	.command("checksum", 'generate jsonHP.language file checksum', (yargs) => {
+
+	}, async (argv) => {
+		const checksum = await createHashFromFile("public/jsonHp.language.json");
+		fs.writeFileSync("public/version.json", JSON.stringify({checksum: checksum, timestamp: `${+(new Date())}`}, null, 2));
+	})
 	.command("count", 'display information about the trade', (yargs) => {
 
 	}, async (argv) => {
