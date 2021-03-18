@@ -20,9 +20,10 @@ const translationInformation = () => {
 
 const generateFullExport = (translation, name) => {
 	const languageUpdated = Language.filter((elt) => elt.en !== elt.id);
+	// const languageUpdated = new Array(...Language);
 	let toTranslate = `"id", "desc", "zh", "en"`;
 	languageUpdated.forEach((elt) => {
-		toTranslate = `${toTranslate}\n"${elt.id}", "${elt.desc}", "${elt.zh}", "${elt.en}"`;
+		toTranslate = `${toTranslate}\n"${elt.id}", "${elt.desc}", "${JSON.stringify(elt.zh)}", "${JSON.stringify(elt.en)}"`;
 	});
 	fs.writeFileSync(`output/${name}.csv`, toTranslate);
 }
@@ -76,7 +77,7 @@ const argv = yargs(hideBin(process.argv))
 		console.log("Display translation informations");
 		const [notranslation, keyList, total] = translationInformation();
 		console.log("Total: ", total, "\nNo translation: ", notranslation);
-		generateNoTranslationFile(keyList, Language, "totranslate");
+		generateNoTranslationFile(keyList, Language, `totranslate-${+(new Date())}`);
 	})
 	.command("onesky", 'full export to onesky', (yargs) => {
 

@@ -14938,7 +14938,7 @@
   {
     "id": "activity_Ui_name_1",
     "desc": "",
-    "en": "Booster",
+    "en": "Booster, Service",
     "size_en": "",
     "zh": "开服福利,助力礼包",
     "size_zh": ""
@@ -15410,7 +15410,7 @@
   {
     "id": "material_name_item_1001",
     "desc": "",
-    "en": "material_name_item_1001",
+    "en": "Ordinary Identification scroll",
     "size_en": "",
     "zh": "普通鉴定券",
     "size_zh": ""
@@ -15418,7 +15418,7 @@
   {
     "id": "material_name_item_1002",
     "desc": "",
-    "en": "material_name_item_1002",
+    "en": "High Identification scroll",
     "size_en": "",
     "zh": "高级鉴定券",
     "size_zh": ""
@@ -15442,7 +15442,7 @@
   {
     "id": "material_name_jp_01_1",
     "desc": "",
-    "en": "material_name_jp_01_1",
+    "en": "Rune Crit. Hit Level 1",
     "size_en": "",
     "zh": "1级暴击精魄",
     "size_zh": ""
@@ -15450,7 +15450,7 @@
   {
     "id": "material_name_jp_01_2",
     "desc": "",
-    "en": "material_name_jp_01_2",
+    "en": "Rune Crit. Hit Level 2",
     "size_en": "",
     "zh": "2级暴击精魄",
     "size_zh": ""
@@ -15458,7 +15458,7 @@
   {
     "id": "material_name_jp_01_3",
     "desc": "",
-    "en": "material_name_jp_01_3",
+    "en": "Rune Crit. Hit Level 3",
     "size_en": "",
     "zh": "3级暴击精魄",
     "size_zh": ""
@@ -15466,7 +15466,7 @@
   {
     "id": "material_name_jp_01_4",
     "desc": "",
-    "en": "material_name_jp_01_4",
+    "en": "Rune Crit. Hit Level 4",
     "size_en": "",
     "zh": "4级暴击精魄",
     "size_zh": ""
@@ -15474,7 +15474,7 @@
   {
     "id": "material_name_jp_01_5",
     "desc": "",
-    "en": "material_name_jp_01_5",
+    "en": "Rune Crit. Hit Level 5",
     "size_en": "",
     "zh": "5级暴击精魄",
     "size_zh": ""
@@ -15482,7 +15482,7 @@
   {
     "id": "material_name_jp_01_6",
     "desc": "",
-    "en": "material_name_jp_01_6",
+    "en": "Rune Crit. Hit Level 6",
     "size_en": "",
     "zh": "6级暴击精魄",
     "size_zh": ""
@@ -15490,7 +15490,7 @@
   {
     "id": "material_name_jp_01_7",
     "desc": "",
-    "en": "material_name_jp_01_7",
+    "en": "Rune Crit. Hit Level 7",
     "size_en": "",
     "zh": "7级暴击精魄",
     "size_zh": ""
@@ -15498,7 +15498,7 @@
   {
     "id": "material_name_jp_01_8",
     "desc": "",
-    "en": "material_name_jp_01_8",
+    "en": "Rune Crit. Hit Level 8",
     "size_en": "",
     "zh": "8级暴击精魄",
     "size_zh": ""
@@ -15506,7 +15506,7 @@
   {
     "id": "material_name_jp_01_9",
     "desc": "",
-    "en": "material_name_jp_01_9",
+    "en": "Rune Crit. Hit Level 9",
     "size_en": "",
     "zh": "9级暴击精魄",
     "size_zh": ""
@@ -16162,7 +16162,7 @@
   {
     "id": "material_name_jp_11_1",
     "desc": "",
-    "en": "material_name_jp_11_1",
+    "en": "ATK Rune Level 1",
     "size_en": "",
     "zh": "1级攻击精魄",
     "size_zh": ""
@@ -16172,7 +16172,7 @@
     "desc": "",
     "en": "material_name_jp_11_2",
     "size_en": "",
-    "zh": "2级攻击精魄",
+    "zh": "ATK Rune Level 2",
     "size_zh": ""
   },
   {
@@ -16180,7 +16180,7 @@
     "desc": "",
     "en": "material_name_jp_11_3",
     "size_en": "",
-    "zh": "3级攻击精魄",
+    "zh": "ATK Rune Level 3",
     "size_zh": ""
   },
   {
@@ -16188,7 +16188,7 @@
     "desc": "",
     "en": "material_name_jp_11_4",
     "size_en": "",
-    "zh": "4级攻击精魄",
+    "zh": "ATK Rune Level 4",
     "size_zh": ""
   },
   {
@@ -16196,7 +16196,7 @@
     "desc": "",
     "en": "material_name_jp_11_5",
     "size_en": "",
-    "zh": "5级攻击精魄",
+    "zh": "ATK Rune Level 5",
     "size_zh": ""
   },
   {
@@ -16204,7 +16204,7 @@
     "desc": "",
     "en": "material_name_jp_11_6",
     "size_en": "",
-    "zh": "6级攻击精魄",
+    "zh": "ATK Rune Level 6",
     "size_zh": ""
   },
   {
@@ -16212,7 +16212,7 @@
     "desc": "",
     "en": "material_name_jp_11_7",
     "size_en": "",
-    "zh": "7级攻击精魄",
+    "zh": "ATK Rune Level 7",
     "size_zh": ""
   },
   {
@@ -16220,7 +16220,7 @@
     "desc": "",
     "en": "material_name_jp_11_8",
     "size_en": "",
-    "zh": "8级攻击精魄",
+    "zh": "ATK Rune Level 8",
     "size_zh": ""
   },
   {
@@ -16228,7 +16228,7 @@
     "desc": "",
     "en": "material_name_jp_11_9",
     "size_en": "",
-    "zh": "9级攻击精魄",
+    "zh": "ATK Rune Level 9",
     "size_zh": ""
   },
   {
@@ -16306,7 +16306,7 @@
   {
     "id": "material_name_jp_13_1",
     "desc": "",
-    "en": "material_name_jp_13_1",
+    "en": "Life Rune Level 1",
     "size_en": "",
     "zh": "1级生命精魄",
     "size_zh": ""
@@ -16314,7 +16314,7 @@
   {
     "id": "material_name_jp_13_2",
     "desc": "",
-    "en": "material_name_jp_13_2",
+    "en": "Life Rune Level 2",
     "size_en": "",
     "zh": "2级生命精魄",
     "size_zh": ""
@@ -16322,7 +16322,7 @@
   {
     "id": "material_name_jp_13_3",
     "desc": "",
-    "en": "material_name_jp_13_3",
+    "en": "Life Rune Level 3",
     "size_en": "",
     "zh": "3级生命精魄",
     "size_zh": ""
@@ -16330,7 +16330,7 @@
   {
     "id": "material_name_jp_13_4",
     "desc": "",
-    "en": "material_name_jp_13_4",
+    "en": "Life Rune Level 4",
     "size_en": "",
     "zh": "4级生命精魄",
     "size_zh": ""
@@ -16338,7 +16338,7 @@
   {
     "id": "material_name_jp_13_5",
     "desc": "",
-    "en": "material_name_jp_13_5",
+    "en": "Life Rune Level 5",
     "size_en": "",
     "zh": "5级生命精魄",
     "size_zh": ""
@@ -16346,7 +16346,7 @@
   {
     "id": "material_name_jp_13_6",
     "desc": "",
-    "en": "material_name_jp_13_6",
+    "en": "Life Rune Level 6",
     "size_en": "",
     "zh": "6级生命精魄",
     "size_zh": ""
@@ -16354,7 +16354,7 @@
   {
     "id": "material_name_jp_13_7",
     "desc": "",
-    "en": "material_name_jp_13_7",
+    "en": "Life Rune Level 7",
     "size_en": "",
     "zh": "7级生命精魄",
     "size_zh": ""
@@ -16362,7 +16362,7 @@
   {
     "id": "material_name_jp_13_8",
     "desc": "",
-    "en": "material_name_jp_13_8",
+    "en": "Life Rune Level 8",
     "size_en": "",
     "zh": "8级生命精魄",
     "size_zh": ""
@@ -16370,7 +16370,7 @@
   {
     "id": "material_name_jp_13_9",
     "desc": "",
-    "en": "material_name_jp_13_9",
+    "en": "Life Rune Level 9",
     "size_en": "",
     "zh": "9级生命精魄",
     "size_zh": ""
@@ -16378,7 +16378,7 @@
   {
     "id": "material_name_jpsp_01_1",
     "desc": "",
-    "en": "Spirit Shard. Crit. Hit Level 1",
+    "en": "Crit. Hit Rune Shard Level 1",
     "size_en": "",
     "zh": "1级暴击精魄碎片",
     "size_zh": ""
@@ -16386,7 +16386,7 @@
   {
     "id": "material_name_jpsp_01_2",
     "desc": "",
-    "en": "Spirit Shard. Crit. Hit Level 2",
+    "en": "Crit. Hit Rune Shard Level 2",
     "size_en": "",
     "zh": "2级暴击精魄碎片",
     "size_zh": ""
@@ -16394,7 +16394,7 @@
   {
     "id": "material_name_jpsp_01_3",
     "desc": "",
-    "en": "Spirit Shard. Crit. Hit Level 3",
+    "en": "Crit. Hit Rune Shard Level 3",
     "size_en": "",
     "zh": "3级暴击精魄碎片",
     "size_zh": ""
@@ -16402,7 +16402,7 @@
   {
     "id": "material_name_jpsp_01_4",
     "desc": "",
-    "en": "Spirit Shard. Crit. Hit Level 4",
+    "en": "Crit. Hit Rune Shard Level 4",
     "size_en": "",
     "zh": "4级暴击精魄碎片",
     "size_zh": ""
@@ -16410,7 +16410,7 @@
   {
     "id": "material_name_jpsp_01_5",
     "desc": "",
-    "en": "Spirit Shard. Crit. Hit Level 5",
+    "en": "Crit. Hit Rune Shard Level 5",
     "size_en": "",
     "zh": "5级暴击精魄碎片",
     "size_zh": ""
@@ -16418,7 +16418,7 @@
   {
     "id": "material_name_jpsp_01_6",
     "desc": "",
-    "en": "Spirit Shard. Crit. Hit Level 6",
+    "en": "Crit. Hit Rune Shard Level 6",
     "size_en": "",
     "zh": "6级暴击精魄碎片",
     "size_zh": ""
@@ -16426,7 +16426,7 @@
   {
     "id": "material_name_jpsp_01_7",
     "desc": "",
-    "en": "Spirit Shard. Crit. Hit Level 7",
+    "en": "Crit. Hit Rune Shard Level 7",
     "size_en": "",
     "zh": "7级暴击精魄碎片",
     "size_zh": ""
@@ -16434,7 +16434,7 @@
   {
     "id": "material_name_jpsp_01_8",
     "desc": "",
-    "en": "Spirit Shard. Crit. Hit Level 8",
+    "en": "Crit. Hit Rune Shard Level 8",
     "size_en": "",
     "zh": "8级暴击精魄碎片",
     "size_zh": ""
@@ -16442,7 +16442,7 @@
   {
     "id": "material_name_jpsp_01_9",
     "desc": "",
-    "en": "Spirit Shard. Crit. Hit Level 9",
+    "en": "Crit. Hit Rune Shard Level 9",
     "size_en": "",
     "zh": "9级暴击精魄碎片",
     "size_zh": ""
@@ -16450,7 +16450,7 @@
   {
     "id": "material_name_jpsp_02_1",
     "desc": "",
-    "en": "Soul Shard. Crit.Res. Level 1",
+    "en": "Crit. Res Rune Shard Level 1",
     "size_en": "",
     "zh": "1级暴击抵抗精魄碎片",
     "size_zh": ""
@@ -16458,7 +16458,7 @@
   {
     "id": "material_name_jpsp_02_2",
     "desc": "",
-    "en": "Soul Shard. Crit.Res. Level 2",
+    "en": "Crit. Res Rune Shard Level 2",
     "size_en": "",
     "zh": "2级暴击抵抗精魄碎片",
     "size_zh": ""
@@ -16466,7 +16466,7 @@
   {
     "id": "material_name_jpsp_02_3",
     "desc": "",
-    "en": "Soul Shard. Crit.Res. Level 3",
+    "en": "Crit. Res Rune Shard Level 3",
     "size_en": "",
     "zh": "3级暴击抵抗精魄碎片",
     "size_zh": ""
@@ -16474,7 +16474,7 @@
   {
     "id": "material_name_jpsp_02_4",
     "desc": "",
-    "en": "Soul Shard. Crit.Res. Level 4",
+    "en": "Crit. Res Rune Shard Level 4",
     "size_en": "",
     "zh": "4级暴击抵抗精魄碎片",
     "size_zh": ""
@@ -16482,7 +16482,7 @@
   {
     "id": "material_name_jpsp_02_5",
     "desc": "",
-    "en": "Soul Shard. Crit.Res. Level 5",
+    "en": "Crit. Res Rune Shard Level 5",
     "size_en": "",
     "zh": "5级暴击抵抗精魄碎片",
     "size_zh": ""
@@ -16490,7 +16490,7 @@
   {
     "id": "material_name_jpsp_02_6",
     "desc": "",
-    "en": "Soul Shard. Crit.Res. Level 6",
+    "en": "Crit. Res Rune Shard Level 6",
     "size_en": "",
     "zh": "6级暴击抵抗精魄碎片",
     "size_zh": ""
@@ -16498,7 +16498,7 @@
   {
     "id": "material_name_jpsp_02_7",
     "desc": "",
-    "en": "Soul Shard. Crit.Res. Level 7",
+    "en": "Crit. Res Rune Shard Level 7",
     "size_en": "",
     "zh": "7级暴击抵抗精魄碎片",
     "size_zh": ""
@@ -16506,7 +16506,7 @@
   {
     "id": "material_name_jpsp_02_8",
     "desc": "",
-    "en": "Soul Shard. Crit.Res. Level 8",
+    "en": "Crit. Res Rune Shard Level 8",
     "size_en": "",
     "zh": "8级暴击抵抗精魄碎片",
     "size_zh": ""
@@ -16514,7 +16514,7 @@
   {
     "id": "material_name_jpsp_02_9",
     "desc": "",
-    "en": "Soul Shard. Crit.Res. Level 9",
+    "en": "Crit. Res Rune Shard Level 9",
     "size_en": "",
     "zh": "9级暴击抵抗精魄碎片",
     "size_zh": ""
@@ -16522,7 +16522,7 @@
   {
     "id": "material_name_jpsp_03_1",
     "desc": "",
-    "en": "Spirit Shard. Magic Power Level 1",
+    "en": "Magic Rune Shard. Level 1",
     "size_en": "",
     "zh": "1级魔法强度精魄碎片",
     "size_zh": ""
@@ -16530,7 +16530,7 @@
   {
     "id": "material_name_jpsp_03_2",
     "desc": "",
-    "en": "Spirit Shard. Magic Power Level 2",
+    "en": "Magic Rune Shard. Level 2",
     "size_en": "",
     "zh": "2级魔法强度精魄碎片",
     "size_zh": ""
@@ -16538,7 +16538,7 @@
   {
     "id": "material_name_jpsp_03_3",
     "desc": "",
-    "en": "Spirit Shard. Magic Power Level 3",
+    "en": "Magic Rune Shard. Level 3",
     "size_en": "",
     "zh": "3级魔法强度精魄碎片",
     "size_zh": ""
@@ -16546,7 +16546,7 @@
   {
     "id": "material_name_jpsp_03_4",
     "desc": "",
-    "en": "Spirit Shard. Magic Power Level 4",
+    "en": "Magic Rune Shard. Level 4",
     "size_en": "",
     "zh": "4级魔法强度精魄碎片",
     "size_zh": ""
@@ -16554,7 +16554,7 @@
   {
     "id": "material_name_jpsp_03_5",
     "desc": "",
-    "en": "Spirit Shard. Magic Power Level 5",
+    "en": "Magic Rune Shard. Level 5",
     "size_en": "",
     "zh": "5级魔法强度精魄碎片",
     "size_zh": ""
@@ -16562,7 +16562,7 @@
   {
     "id": "material_name_jpsp_03_6",
     "desc": "",
-    "en": "Spirit Shard. Magic Power Level 6",
+    "en": "Magic Rune Shard. Level 6",
     "size_en": "",
     "zh": "6级魔法强度精魄碎片",
     "size_zh": ""
@@ -16570,7 +16570,7 @@
   {
     "id": "material_name_jpsp_03_7",
     "desc": "",
-    "en": "Spirit Shard. Magic Power Level 7",
+    "en": "Magic Rune Shard. Level 7",
     "size_en": "",
     "zh": "7级魔法强度精魄碎片",
     "size_zh": ""
@@ -16578,7 +16578,7 @@
   {
     "id": "material_name_jpsp_03_8",
     "desc": "",
-    "en": "Spirit Shard. Magic Power Level 8",
+    "en": "Magic Rune Shard. Level 8",
     "size_en": "",
     "zh": "8级魔法强度精魄碎片",
     "size_zh": ""
@@ -16586,7 +16586,7 @@
   {
     "id": "material_name_jpsp_03_9",
     "desc": "",
-    "en": "Spirit Shard. Magic Power Level 9",
+    "en": "Magic Rune Shard. Level 9",
     "size_en": "",
     "zh": "9级魔法强度精魄碎片",
     "size_zh": ""
@@ -16594,7 +16594,7 @@
   {
     "id": "material_name_jpsp_04_1",
     "desc": "",
-    "en": "Essence Fragment. Magic Defence Level 1",
+    "en": "Magic DEF Rune Shard Level 1",
     "size_en": "",
     "zh": "1级魔法防御精魄碎片",
     "size_zh": ""
@@ -16602,7 +16602,7 @@
   {
     "id": "material_name_jpsp_04_2",
     "desc": "",
-    "en": "Essence Fragment. Magic Defence Level 2",
+    "en": "Magic DEF Rune Shard Level 2",
     "size_en": "",
     "zh": "2级魔法防御精魄碎片",
     "size_zh": ""
@@ -16610,7 +16610,7 @@
   {
     "id": "material_name_jpsp_04_3",
     "desc": "",
-    "en": "Essence Fragment. Magic Defence Level 3",
+    "en": "Magic DEF Rune Shard Level 3",
     "size_en": "",
     "zh": "3级魔法防御精魄碎片",
     "size_zh": ""
@@ -16618,7 +16618,7 @@
   {
     "id": "material_name_jpsp_04_4",
     "desc": "",
-    "en": "Essence Fragment. Magic Defence Level 4",
+    "en": "Magic DEF Rune Shard Level 4",
     "size_en": "",
     "zh": "4级魔法防御精魄碎片",
     "size_zh": ""
@@ -16626,7 +16626,7 @@
   {
     "id": "material_name_jpsp_04_5",
     "desc": "",
-    "en": "Essence Fragment. Magic Defence Level 5",
+    "en": "Magic DEF Rune Shard Level 5",
     "size_en": "",
     "zh": "5级魔法防御精魄碎片",
     "size_zh": ""
@@ -16634,7 +16634,7 @@
   {
     "id": "material_name_jpsp_04_6",
     "desc": "",
-    "en": "Essence Fragment. Magic Defence Level 6",
+    "en": "Magic DEF Rune Shard Level 6",
     "size_en": "",
     "zh": "6级魔法防御精魄碎片",
     "size_zh": ""
@@ -16642,7 +16642,7 @@
   {
     "id": "material_name_jpsp_04_7",
     "desc": "",
-    "en": "Essence Fragment. Magic Defence Level 7",
+    "en": "Magic DEF Rune Shard Level 7",
     "size_en": "",
     "zh": "7级魔法防御精魄碎片",
     "size_zh": ""
@@ -16650,7 +16650,7 @@
   {
     "id": "material_name_jpsp_04_8",
     "desc": "",
-    "en": "Essence Fragment. Magic Defence Level 8",
+    "en": "Magic DEF Rune Shard Level 8",
     "size_en": "",
     "zh": "8级魔法防御精魄碎片",
     "size_zh": ""
@@ -16658,7 +16658,7 @@
   {
     "id": "material_name_jpsp_04_9",
     "desc": "",
-    "en": "Essence Fragment. Magic Defence Level 9",
+    "en": "Magic DEF Rune Shard Level 9",
     "size_en": "",
     "zh": "9级魔法防御精魄碎片",
     "size_zh": ""
@@ -19530,7 +19530,7 @@
   {
     "id": "regions_decs_204",
     "desc": "",
-    "en": "There is a chance to drop grade B and A materials, spirits, soul gem",
+    "en": "There is a chance to drop grade B and A materials, Rune, soul gem",
     "size_en": "",
     "zh": "有机会掉落B、A级材料，精魄，龙魂宝石",
     "size_zh": ""
