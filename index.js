@@ -1,6 +1,6 @@
 const fs = require("fs");
 const Crypto = require("crypto");
-const Axios = require("Axios");
+const Axios = require("axios");
 const yargs = require("yargs/yargs");
 const { hideBin } = require("yargs/helpers");
 const csv = require('csv-parser');
@@ -83,6 +83,35 @@ const argv = yargs(hideBin(process.argv))
 
 	}, async (argv) => {
 		generateFullExport(Language, "onesky-full");
+	})
+	.command("exchange", "exchange the translation file from ConDragon Api", (yargs) => {
+
+	}, async (argv) => {
+		const languageUpdated = new Array(...Language);
+		const zhUpdatedLanguage = await getUpdatedLanguage();
+		const updateZh = zhUpdatedLanguage.map((zhElement) => {
+			const eltIndex = languageUpdated.findIndex((elt) => elt.id === zhElement.id);
+			return {...zhElement, zh: languageUpdated[eltIndex].en != ''? languageUpdated[eltIndex].en: zhElement.zh}
+		});
+		generateJsonHpFile(updateZh, `${+(new Date())}`);
+	})
+	.command("compare", "compare the translation file from ConDragon Api", (yargs) => {
+
+	}, async (argv) => {
+		const languageUpdated = new Array(...Language);
+		const zhUpdatedLanguage = await getUpdatedLanguage();
+		const changedZhValues = [];
+		zhUpdatedLanguage.forEach((zhElement) => {
+			const eltIndex = languageUpdated.findIndex((elt) => elt.id === zhElement.id);
+			if(languageUpdated[eltIndex].zh != zhElement.zh){
+				changedZhValues.push({
+					key : zhElement.id,
+					zh : zhElement.zh,
+					old_en : languageUpdated[eltIndex].en
+				})
+			}
+		});
+		console.log(changedZhValues)
 	})
 	.command("update", "update the translation file from ConDragon Api", (yargs) => {
 
