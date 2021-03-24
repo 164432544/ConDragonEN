@@ -1318,21 +1318,21 @@
   {
     "id": "list_hander",
     "desc": "",
-    "en": "list_hander",
+    "en": "Fees",
     "size_en": "",
     "zh": "手续费"
   },
   {
     "id": "list_sale_time",
     "desc": "",
-    "en": "list_sale_time",
+    "en": "Sold time",
     "size_en": "",
     "zh": "出售时间"
   },
   {
     "id": "title_list_play",
     "desc": "",
-    "en": "title_list_play",
+    "en": "History",
     "size_en": "",
     "zh": "出售记录说明"
   },
@@ -1451,28 +1451,28 @@
   {
     "id": "zhang",
     "desc": "",
-    "en": "zhang",
+    "en": "ea",
     "size_en": "",
     "zh": "张"
   },
   {
     "id": "choose_hole_set",
     "desc": "",
-    "en": "choose_hole_set",
+    "en": "Choose rune",
     "size_en": "",
     "zh": "请选择已激活的镶嵌孔进行镶嵌"
   },
   {
     "id": "check_paple_enough",
     "desc": "",
-    "en": "check_paple_enough",
+    "en": "Not enought scroll",
     "size_en": "",
     "zh": "您选择的鉴定券不足"
   },
   {
     "id": "check_desc",
     "desc": "",
-    "en": "check_desc",
+    "en": "Cost",
     "size_en": "",
     "zh": "鉴定将消耗"
   },
@@ -3672,14 +3672,14 @@
   {
     "id": "title_equip_makeable",
     "desc": "装备制造页面标题",
-    "en": "Equipment Manufacturing Page Title",
+    "en": "Crafting equipments",
     "size_en": "",
     "zh": "可制造装备"
   },
   {
     "id": "desc_equip_makeable",
     "desc": "装备制造说明",
-    "en": "Instructions for Equipment Manufacturing",
+    "en": "List of available craft",
     "size_en": "",
     "zh": "您可以使用材料制造装备"
   },
@@ -3833,7 +3833,7 @@
   {
     "id": "expanded_backpack",
     "desc": "扩大物品栏描述",
-    "en": "Expanding the item bar by 4 squares will consume",
+    "en": "Exapandin backpack by 4 slots will cost:",
     "size_en": "",
     "zh": "将物品栏扩大1格，将消耗"
   },
@@ -3861,7 +3861,7 @@
   {
     "id": "desc_choose_material",
     "desc": "选择材料描述",
-    "en": "desc_choose_material",
+    "en": "Choose materials to find",
     "size_en": "",
     "zh": "请选择想要搜索的材料"
   },
@@ -3875,7 +3875,7 @@
   {
     "id": "desc_choose_equip",
     "desc": "选择装备描述",
-    "en": "desc_choose_equip",
+    "en": "Choose equipment to find",
     "size_en": "",
     "zh": "请选择想要搜索的装备"
   },
@@ -4092,7 +4092,7 @@
   {
     "id": "input_number",
     "desc": "请输入数字",
-    "en": "input_number",
+    "en": "Number",
     "size_en": "",
     "zh": "请输入数字"
   },
@@ -4120,7 +4120,7 @@
   {
     "id": "input_price",
     "desc": "请输入出售价格",
-    "en": "input_price",
+    "en": "Put selling price",
     "size_en": "",
     "zh": "请输入出售价格"
   },
@@ -4190,7 +4190,7 @@
   {
     "id": "end_battle_to_go",
     "desc": "请先结束当前战斗，再次进入",
-    "en": "end_battle_to_go",
+    "en": "Please end battle before entering",
     "size_en": "",
     "zh": "请先结束当前战斗，才能再次进入"
   },
@@ -4225,7 +4225,7 @@
   {
     "id": "button_bag_delete",
     "desc": "背包-按钮-删除",
-    "en": "Convert",
+    "en": "Scrap",
     "size_en": "",
     "zh": "回收"
   },
@@ -4239,7 +4239,7 @@
   {
     "id": "button_bag_make",
     "desc": "背包-按钮-制作",
-    "en": "Make",
+    "en": "Craft",
     "size_en": "",
     "zh": "制作"
   },
@@ -4687,7 +4687,7 @@
   {
     "id": "go_expedition",
     "desc": "出征",
-    "en": "Go to the expedition",
+    "en": "Travel",
     "size_en": "",
     "zh": "出征"
   },
@@ -9273,21 +9273,21 @@
   {
     "id": "material_desc_food_301",
     "desc": "材料属性-描述食品类301",
-    "en": "material_desc_food_301",
+    "en": "Finding high quality flour is the first step to make pasta.",
     "size_en": "",
     "zh": "找到优质的面粉是做好面食的第一步"
   },
   {
     "id": "material_desc_food_302",
     "desc": "材料属性-描述食品类302",
-    "en": "material_desc_food_302",
+    "en": "This year, It would have been 18 years together... ",
     "size_en": "",
     "zh": "那年十八，我和她在玉米地里…"
   },
   {
     "id": "material_desc_food_303",
     "desc": "材料属性-描述食品类303",
-    "en": "material_desc_food_303",
+    "en": "Everyone's favorite dairy - MooMoo",
     "size_en": "",
     "zh": "大家都喜爱的乳制品"
   },
@@ -13333,7 +13333,7 @@
   {
     "id": "buy_activity_success",
     "desc": "",
-    "en": "buy_activity_success",
+    "en": "Booster brought",
     "size_en": "",
     "zh": "请在礼包界面领取使用。"
   },
@@ -13447,7 +13447,7 @@
     "desc": "",
     "en": "active_table",
     "size_en": "",
-    "zh": "勇士募集,狩猎进行时,战神招募中"
+    "zh": "Recruit,Hunting,God of War"
   },
   {
     "id": "active_desc_1",
@@ -13473,14 +13473,14 @@
   {
     "id": "connoff",
     "desc": "",
-    "en": "connoff",
+    "en": "Game under maintenance, please wait.",
     "size_en": "",
     "zh": "当前游戏正在维护中，请您耐心等待。"
   },
   {
     "id": "activity_competition_name",
     "desc": "",
-    "en": "activity_competition_name",
+    "en": "Activity",
     "size_en": "",
     "zh": "活动"
   },
@@ -13501,14 +13501,14 @@
   {
     "id": "material_desc_item_1001",
     "desc": "",
-    "en": "material_desc_item_1001",
+    "en": "Identify equipments to get a random number of Runes slots, number of slots can be downgraded",
     "size_en": "",
     "zh": "可以让装备获得随机数量的镶嵌孔"
   },
   {
     "id": "material_desc_item_1002",
     "desc": "",
-    "en": "material_desc_item_1002",
+    "en": "Identify equipments to get a random number of Runes slots, the number of slot cannot be inferior",
     "size_en": "",
     "zh": "可以让装备获得随机数量的镶嵌孔，并且在鉴定后该装备的镶嵌孔数量不少于鉴定前的数量"
   },
@@ -14964,63 +14964,63 @@
   {
     "id": "material_name_jpsp_11_1",
     "desc": "",
-    "en": "material_name_jpsp_11_1",
+    "en": "ATK Rune Shard Level 1",
     "size_en": "",
     "zh": "1级攻击精魄碎片"
   },
   {
     "id": "material_name_jpsp_11_2",
     "desc": "",
-    "en": "material_name_jpsp_11_2",
+    "en": "ATK Rune Shard Level 2",
     "size_en": "",
     "zh": "2级攻击精魄碎片"
   },
   {
     "id": "material_name_jpsp_11_3",
     "desc": "",
-    "en": "material_name_jpsp_11_3",
+    "en": "ATK Rune Shard Level 3",
     "size_en": "",
     "zh": "3级攻击精魄碎片"
   },
   {
     "id": "material_name_jpsp_11_4",
     "desc": "",
-    "en": "material_name_jpsp_11_4",
+    "en": "ATK Rune Shard Level 4",
     "size_en": "",
     "zh": "4级攻击精魄碎片"
   },
   {
     "id": "material_name_jpsp_11_5",
     "desc": "",
-    "en": "material_name_jpsp_11_5",
+    "en": "ATK Rune Shard Level 5",
     "size_en": "",
     "zh": "5级攻击精魄碎片"
   },
   {
     "id": "material_name_jpsp_11_6",
     "desc": "",
-    "en": "material_name_jpsp_11_6",
+    "en": "ATK Rune Shard Level 6",
     "size_en": "",
     "zh": "6级攻击精魄碎片"
   },
   {
     "id": "material_name_jpsp_11_7",
     "desc": "",
-    "en": "material_name_jpsp_11_7",
+    "en": "ATK Rune Shard Level 7",
     "size_en": "",
     "zh": "7级攻击精魄碎片"
   },
   {
     "id": "material_name_jpsp_11_8",
     "desc": "",
-    "en": "material_name_jpsp_11_8",
+    "en": "ATK Rune Shard Level 8",
     "size_en": "",
     "zh": "8级攻击精魄碎片"
   },
   {
     "id": "material_name_jpsp_11_9",
     "desc": "",
-    "en": "material_name_jpsp_11_9",
+    "en": "ATK Rune Shard Level 9",
     "size_en": "",
     "zh": "9级攻击精魄碎片"
   },
@@ -17281,7 +17281,7 @@
   {
     "id": "dapp_transaction_cancel",
     "desc": "",
-    "en": "dapp_transaction_cancel",
+    "en": "Transaction cancelled",
     "size_en": "",
     "zh": "交易取消"
   },
