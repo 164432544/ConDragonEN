@@ -10,8 +10,8 @@ But you can do it anytime (only the main screen won't be translated).
 
 ## Informations
 The modification will consist of 2 things :
--Set the language of the application
--Set the json for the translation inside the application
+ - Set the language of the application
+ - Set the json for the translation inside the application
 
 ## Chrome
 
@@ -29,8 +29,8 @@ In the console type
 localstorage.languageType = "en"
 ```
 
---This will change the prefered language setting on the app, if you go like this, the game will have some word translated
-But majority of things will be blank.--
+*This will change the prefered language setting on the app, if you go like this, the game will have some word translated
+But majority of things will be blank.*
 
 After that type in the console : 
 
