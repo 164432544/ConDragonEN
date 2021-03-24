@@ -1,6 +1,6 @@
 Switch ConDragon RPG in English(temp solution)
 
-##Disclamer 
+## Disclamer 
 The manipulation is to use at you own risk. 
 You really need to confirm and understand what you are doing.
 Never trust Javascript modification.
@@ -8,7 +8,7 @@ Never trust Javascript modification.
 To be able to have everything translated, you need to do it before getting your wallet connected (it's the time where the starting app is frozen).
 But you can do it anytime (only the main screen won't be translated).
 
-##Informations
+## Informations
 The modification will consist of 2 things :
 -Set the language of the application
 -Set the json for the translation inside the application
