@@ -4442,7 +4442,7 @@
   {
     "id": "material_type_2",
     "desc": "材料属性-类型2",
-    "en": "Rune",
+    "en": "Orb",
     "size_en": "",
     "zh": "符文"
   },
@@ -4470,21 +4470,21 @@
   {
     "id": "material_type_6",
     "desc": "",
-    "en": "Accessories",
+    "en": "Scroll",
     "size_en": "",
     "zh": "道具"
   },
   {
     "id": "material_type_10",
     "desc": "",
-    "en": "Spirit",
+    "en": "Rune",
     "size_en": "",
     "zh": "精魄"
   },
   {
     "id": "material_type_11",
     "desc": "",
-    "en": "Shard",
+    "en": "Rune Shard",
     "size_en": "",
     "zh": "精魄碎片"
   },
@@ -8692,84 +8692,84 @@
   {
     "id": "material_name_rune_201",
     "desc": "材料属性-名字符文类201",
-    "en": "Rune - Green leaf",
+    "en": "Orb - Green leaf",
     "size_en": "",
     "zh": "符文-绿叶"
   },
   {
     "id": "material_name_rune_202",
     "desc": "材料属性-名字符文类202",
-    "en": "Rune - Stabbing",
+    "en": "Orb - Stabbing",
     "size_en": "",
     "zh": "符文-刺伤"
   },
   {
     "id": "material_name_rune_203",
     "desc": "材料属性-名字符文类203",
-    "en": "Rune - Viper",
+    "en": "Orb - Viper",
     "size_en": "",
     "zh": "符文-毒蛇"
   },
   {
     "id": "material_name_rune_204",
     "desc": "材料属性-名字符文类204",
-    "en": "Rune - Yuehua",
+    "en": "Orb - Yuehua",
     "size_en": "",
     "zh": "符文-月华"
   },
   {
     "id": "material_name_rune_205",
     "desc": "材料属性-名字符文类205",
-    "en": "Rune - Fortress",
+    "en": "Orb - Fortress",
     "size_en": "",
     "zh": "符文-堡垒"
   },
   {
     "id": "material_name_rune_206",
     "desc": "材料属性-名字符文类206",
-    "en": "Rune - Fire",
+    "en": "Orb - Fire",
     "size_en": "",
     "zh": "符文-烈火"
   },
   {
     "id": "material_name_rune_207",
     "desc": "材料属性-名字符文类207",
-    "en": "Rune - Wind",
+    "en": "Orb - Wind",
     "size_en": "",
     "zh": "符文-疾风"
   },
   {
     "id": "material_name_rune_208",
     "desc": "材料属性-名字符文类208",
-    "en": "Rune - Piercing",
+    "en": "Orb - Piercing",
     "size_en": "",
     "zh": "符文-穿刺"
   },
   {
     "id": "material_name_rune_209",
     "desc": "材料属性-名字符文类209",
-    "en": "Rune - Snake Spirit",
+    "en": "Orb - Snake Spirit",
     "size_en": "",
     "zh": "符文-灵蛇"
   },
   {
     "id": "material_name_rune_210",
     "desc": "材料属性-名字符文类210",
-    "en": "Rune - Moon",
+    "en": "Orb - Moon",
     "size_en": "",
     "zh": "符文-逆月"
   },
   {
     "id": "material_name_rune_211",
     "desc": "材料属性-名字符文类211",
-    "en": "Rune - Divine Shield",
+    "en": "Orb - Divine Shield",
     "size_en": "",
     "zh": "符文-圣盾"
   },
   {
     "id": "material_name_rune_212",
     "desc": "材料属性-名字符文类212",
-    "en": "Rune - God of War",
+    "en": "Orb - God of War",
     "size_en": "",
     "zh": "符文-战神"
   },
@@ -16938,7 +16938,7 @@
   {
     "id": "card_desc_104",
     "desc": "",
-    "en": "card_desc_104",
+    "en": "Increase damage by 5% to Cactus monster",
     "size_en": "",
     "zh": "对仙人球怪物造成5%额外伤害"
   },
