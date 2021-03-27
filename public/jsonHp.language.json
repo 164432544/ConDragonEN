@@ -1038,7 +1038,7 @@
   {
     "id": "title_auction",
     "desc": "",
-    "en": "Auction",
+    "en": "Auction,Reward",
     "size_en": "",
     "zh": "神秘宝藏,我的宝藏"
   },
@@ -1969,14 +1969,14 @@
   {
     "id": "daily_now",
     "desc": "",
-    "en": "daily_now",
+    "en": "Progress: ",
     "size_en": "",
     "zh": "当前进度："
   },
   {
     "id": "daily_get",
     "desc": "",
-    "en": "daily_get",
+    "en": "Runestones",
     "size_en": "",
     "zh": "获得符石"
   },
@@ -1985,7 +1985,7 @@
     "desc": "",
     "en": "dally_gift",
     "size_en": "",
-    "zh": "50符石"
+    "zh": "50 Runestones"
   },
   {
     "id": "daily_battle_error",
@@ -4022,7 +4022,7 @@
   {
     "id": "market_levle_limit",
     "desc": "市场等级限制",
-    "en": "market_levle_limit",
+    "en": "Hero need to be at least level 5 to sell an item",
     "size_en": "",
     "zh": "上阵英雄等级小于5级，无法上架商品"
   },
@@ -4736,7 +4736,7 @@
   {
     "id": "regions_name_104",
     "desc": "场景属性-名字104",
-    "en": "Psychedelic swamp",
+    "en": "Swamp",
     "size_en": "",
     "zh": "迷幻沙漠"
   },
@@ -9280,7 +9280,7 @@
   {
     "id": "material_desc_food_302",
     "desc": "材料属性-描述食品类302",
-    "en": "This year, It would have been 18 years together... ",
+    "en": "This year, It would have been 18 years together in the same field... ",
     "size_en": "",
     "zh": "那年十八，我和她在玉米地里…"
   },
