@@ -17,8 +17,6 @@ The modification will consist of 2 things :
 Complete script
 ```
 localStorage.languageType = "en"
-
-const response = await fetch('https://raw.githubusercontent.com/lagonnebula/ConDragonEN/main/public/jsonHp.language.json')
 jsonHp.language = await (await fetch('https://raw.githubusercontent.com/lagonnebula/ConDragonEN/main/public/jsonHp.language.json')).json();
 
 
