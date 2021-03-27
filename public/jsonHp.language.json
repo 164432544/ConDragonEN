@@ -3665,7 +3665,7 @@
   {
     "id": "button_sale",
     "desc": "按钮-售出",
-    "en": "Sale",
+    "en": "Sell",
     "size_en": "",
     "zh": "售出"
   },
@@ -4211,7 +4211,7 @@
   {
     "id": "label_material_manual",
     "desc": "标签-材料图鉴",
-    "en": "List",
+    "en": "Catalog",
     "size_en": "",
     "zh": "材料图鉴"
   },
@@ -4260,7 +4260,7 @@
   {
     "id": "label_equips_manual",
     "desc": "标签-装备图鉴",
-    "en": "Lists",
+    "en": "Catalog",
     "size_en": "",
     "zh": "装备图鉴"
   },
