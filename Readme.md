@@ -13,7 +13,18 @@ The modification will consist of 2 things :
  - Set the language of the application
  - Set the json for the translation inside the application
 
-## Chrome
+## Javascript Script
+Complete script
+```
+localStorage.languageType = "en"
+
+const response = await fetch('https://raw.githubusercontent.com/lagonnebula/ConDragonEN/main/public/jsonHp.language.json')
+jsonHp.language = await (await fetch('https://raw.githubusercontent.com/lagonnebula/ConDragonEN/main/public/jsonHp.language.json')).json();
+
+
+```
+
+## Chrome 'Detailed Instruction'
 
 Get the new version of the translation: 
 ``` 
@@ -39,15 +50,3 @@ jsonHp.language = <Copy and Paste the content of the file>
 ```
 Now you can login and continue to play.
 
-
-## Javascript Script
-Complete script
-```
-localStorage.languageType = "en"
-
-const response = await fetch('https://raw.githubusercontent.com/lagonnebula/ConDragonEN/main/public/jsonHp.language.json')
-const data = await response.json();
-jsonHp.language = data;
-
-
-```
