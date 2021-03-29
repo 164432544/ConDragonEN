@@ -107,6 +107,7 @@ const argv = yargs(hideBin(process.argv))
 				changedZhValues.push({
 					key : zhElement.id,
 					zh : zhElement.zh,
+					old_zh : languageUpdated[eltIndex].zh,
 					old_en : languageUpdated[eltIndex].en
 				})
 			}

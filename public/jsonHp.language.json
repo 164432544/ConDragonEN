@@ -1983,9 +1983,9 @@
   {
     "id": "dally_gift",
     "desc": "",
-    "en": "dally_gift",
+    "en": "50 Runestones",
     "size_en": "",
-    "zh": "50 Runestones"
+    "zh": "50符石"
   },
   {
     "id": "daily_battle_error",
@@ -2342,7 +2342,7 @@
     "desc": "",
     "en": "Quantity sold",
     "size_en": "",
-    "zh": "数量"
+    "zh": "出售数量"
   },
   {
     "id": "stone_sell_price",
@@ -2637,7 +2637,7 @@
     "desc": "",
     "en": "Experience",
     "size_en": "",
-    "zh": "经验值"
+    "zh": "恐龙经验"
   },
   {
     "id": "equip_set",
@@ -2964,7 +2964,7 @@
   {
     "id": "shengyu",
     "desc": "",
-    "en": "shengyu",
+    "en": "Remaining",
     "size_en": "",
     "zh": "剩余"
   },
@@ -3104,7 +3104,7 @@
   {
     "id": "special_draw",
     "desc": "",
-    "en": "special_draw",
+    "en": "Drop rate",
     "size_en": "",
     "zh": "远征材料掉率"
   },
@@ -13445,9 +13445,9 @@
   {
     "id": "active_table",
     "desc": "",
-    "en": "active_table",
+    "en": "Recruit,Hunting,God of War",
     "size_en": "",
-    "zh": "Recruit,Hunting,God of War"
+    "zh": "勇士募集,狩猎进行时,战神招募中"
   },
   {
     "id": "active_desc_1",
@@ -17297,7 +17297,7 @@
     "desc": "装备\\材料\\恐龙属性-普通",
     "en": "Equipment\\Materials\\Dragon Attributes-Normal",
     "size_en": "",
-    "zh": "装备\\材料\\恐龙属性-普通",
+    "zh": "",
     "size_zh": ""
   }
 ]
