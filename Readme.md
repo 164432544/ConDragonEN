@@ -48,3 +48,8 @@ jsonHp.language = <Copy and Paste the content of the file>
 ```
 Now you can login and continue to play.
 
+## Buy me a coffee !
+
+If you want to buy me a coffee, it's a pleasure ! 
+Conflux : cfx:aak534b75axaj6fp3hssznkusuvxh65nwusvkd5z49
+
