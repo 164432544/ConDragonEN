@@ -1619,7 +1619,7 @@
   {
     "id": "equip_set_desc",
     "desc": "",
-    "en": "equip_set_desc",
+    "en": "Set",
     "size_en": "",
     "zh": "套装详情"
   },
@@ -2663,14 +2663,14 @@
   {
     "id": "not_set",
     "desc": "",
-    "en": "not_set",
+    "en": "unactive",
     "size_en": "",
     "zh": "未激活"
   },
   {
     "id": "get_set",
     "desc": "",
-    "en": "get_set",
+    "en": "active",
     "size_en": "",
     "zh": "已激活"
   },
@@ -3686,7 +3686,7 @@
   {
     "id": "use_level",
     "desc": "使用等级",
-    "en": "Use Level",
+    "en": "Need level",
     "size_en": "",
     "zh": "使用等级"
   },
@@ -4365,35 +4365,35 @@
   {
     "id": "grade_1",
     "desc": "装备\\材料\\恐龙属性-普通",
-    "en": "Ordinary",
+    "en": "C",
     "size_en": "",
     "zh": "普通"
   },
   {
     "id": "grade_2",
     "desc": "装备\\材料\\恐龙属性-精良",
-    "en": "Excellent",
+    "en": "B",
     "size_en": "",
     "zh": "精良"
   },
   {
     "id": "grade_3",
     "desc": "装备\\材料\\恐龙属性-稀有",
-    "en": "Rare",
+    "en": "A",
     "size_en": "",
     "zh": "稀有"
   },
   {
     "id": "grade_4",
     "desc": "装备\\材料\\恐龙属性-传奇",
-    "en": "Legendary",
+    "en": "S",
     "size_en": "",
     "zh": "传奇"
   },
   {
     "id": "grade_5",
     "desc": "筛选界面-远古",
-    "en": "Ancient",
+    "en": "SSS",
     "size_en": "",
     "zh": "远古"
   },
@@ -6053,7 +6053,7 @@
   {
     "id": "equip_name_locknail_804",
     "desc": "装备属性-名字锁甲804",
-    "en": "name_locknail_804",
+    "en": "Bone Armor",
     "size_en": "",
     "zh": "骨甲"
   },
@@ -6732,7 +6732,7 @@
   {
     "id": "equip_desc_sword_104",
     "desc": "装备属性-描述剑104",
-    "en": "desc_sword_104",
+    "en": "Weapon used by sworman in eastern countries. The sword emit a light under the moon",
     "size_en": "",
     "zh": "东方某国的剑士使用的武器，月夜之下能发出刀光"
   },
@@ -7908,7 +7908,7 @@
   {
     "id": "equip_desc_locknail_804",
     "desc": "装备属性-描述锁甲804",
-    "en": "desc_locknail_804",
+    "en": "I wonder what creature's bone is harder than metal.",
     "size_en": "",
     "zh": "不知什么生物的骨头打造的护甲，竟然比金属还要坚硬"
   },
@@ -10358,28 +10358,28 @@
   {
     "id": "skill_desc_1010_lv2",
     "desc": "技能-技能描述1010-等级2",
-    "en": "Passively increase your physical attack power by 20% at the cost of reducing your physical defense by 25%",
+    "en": "Passively increase your physical attack power by 25% at the cost of reducing your physical defense by 20%",
     "size_en": "",
     "zh": "被动以降低自身20%物理防御为代价提升自身25%物理攻击力"
   },
   {
     "id": "skill_desc_1010_lv3",
     "desc": "技能-技能描述1010-等级3",
-    "en": "Passively increase your physical attack power by 20% at the cost of reducing your physical defense by 30%",
+    "en": "Passively increase your physical attack power by 30% at the cost of reducing your physical defense by 20%",
     "size_en": "",
     "zh": "被动以降低自身20%物理防御为代价提升自身30%物理攻击力"
   },
   {
     "id": "skill_desc_1010_lv4",
     "desc": "技能-技能描述1010-等级4",
-    "en": "Passively increase your physical attack power by 20% at the cost of reducing your physical defense by 35%",
+    "en": "Passively increase your physical attack power by 35% at the cost of reducing your physical defense by 20%",
     "size_en": "",
     "zh": "被动以降低自身20%物理防御为代价提升自身35%物理攻击力"
   },
   {
     "id": "skill_desc_1010_lv5",
     "desc": "技能-技能描述1010-等级5",
-    "en": "Passively increase your physical attack power by 20% at the cost of reducing your physical defense by 40%",
+    "en": "Passively increase your physical attack power by 40% at the cost of reducing your physical defense by 20%",
     "size_en": "",
     "zh": "被动以降低自身20%物理防御为代价提升自身40%物理攻击力"
   },

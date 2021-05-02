@@ -16,9 +16,21 @@ The modification will consist of 2 things :
 ## Javascript Script
 Complete script
 ```
+JsonHelper.prototype.getlanguageTxt = function (id, strtype = 0) {
+    if (strtype > 0) {
+        return id;
+    }
+    for (var index = 0; index < this.language.length; index++) {
+        var element = this.language[index];
+        if (id == element.id) {
+            return element['en'];
+        }
+    }
+    return "策划没有配---> id" + id;
+}
+
 localStorage.languageType = "en"
 jsonHp.language = await (await fetch('https://raw.githubusercontent.com/lagonnebula/ConDragonEN/main/public/jsonHp.language.json')).json();
-
 
 ```
 
@@ -37,9 +49,27 @@ In the console type
 ``` 
 localstorage.languageType = "en"
 ```
-
 *This will change the prefered language setting on the app, if you go like this, the game will have some word translated
 But majority of things will be blank.*
+
+Since recent update. The dev locked the default translation function to chinese so this step is needed now:
+```
+JsonHelper.prototype.getlanguageTxt = function (id, strtype = 0) {
+    if (strtype > 0) {
+        return id;
+    }
+    for (var index = 0; index < this.language.length; index++) {
+        var element = this.language[index];
+        if (id == element.id) {
+            return element['en'];
+        }
+    }
+    return "策划没有配---> id" + id;
+}
+```
+
+*This rewrite the function that read the data to choose the language text to display*
+
 
 After that type in the console : 
 
