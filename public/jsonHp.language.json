@@ -9966,7 +9966,7 @@
   {
     "id": "skill_desc_1001_lv0",
     "desc": "技能-技能描述1001-等级0",
-    "en": "Unlock Hero",
+    "en": "You don’t have this skill yet",
     "size_en": "",
     "zh": "尚未拥有该技能"
   },
@@ -10771,35 +10771,35 @@
   {
     "id": "skill_desc_2008_lv1",
     "desc": "技能-技能描述2008-等级1",
-    "en": "skill_desc_2008_lv1",
+    "en": "Passively increase physical defense by 10%",
     "size_en": "",
     "zh": "被动提升自身10%物理防御力"
   },
   {
     "id": "skill_desc_2008_lv2",
     "desc": "技能-技能描述2008-等级2",
-    "en": "skill_desc_2008_lv2",
+    "en": "Passively increase your physical defense by 15%",
     "size_en": "",
     "zh": "被动提升自身15%物理防御力"
   },
   {
     "id": "skill_desc_2008_lv3",
     "desc": "技能-技能描述2008-等级3",
-    "en": "skill_desc_2008_lv3",
+    "en": "Passively increase your physical defense by 20%",
     "size_en": "",
     "zh": "被动提升自身20%物理防御力"
   },
   {
     "id": "skill_desc_2008_lv4",
     "desc": "技能-技能描述2008-等级4",
-    "en": "skill_desc_2008_lv4",
+    "en": "Passively increase physical defense by 25%",
     "size_en": "",
     "zh": "被动提升自身25%物理防御力"
   },
   {
     "id": "skill_desc_2008_lv5",
     "desc": "技能-技能描述2008-等级5",
-    "en": "skill_desc_2008_lv5",
+    "en": "Passively increase physical defense by 30%",
     "size_en": "",
     "zh": "被动提升自身30%物理防御力"
   },
@@ -10813,35 +10813,35 @@
   {
     "id": "skill_desc_2009_lv1",
     "desc": "技能-技能描述2009-等级1",
-    "en": "skill_desc_2009_lv1",
+    "en": "Inflict 100% physical attack damage to an enemy, and add 20% magic attack damage for additional damage",
     "size_en": "",
     "zh": "对一个敌人造成100%物理攻击力的伤害，并附加20%魔法攻击力的额外伤害"
   },
   {
     "id": "skill_desc_2009_lv2",
     "desc": "技能-技能描述2009-等级2",
-    "en": "skill_desc_2009_lv2",
+    "en": "Inflict 125% physical attack damage to an enemy, and add 30% magic attack damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成125%物理攻击力的伤害，并附加30%魔法攻击力的额外伤害"
   },
   {
     "id": "skill_desc_2009_lv3",
     "desc": "技能-技能描述2009-等级3",
-    "en": "skill_desc_2009_lv3",
+    "en": "Inflict 150% physical attack damage to an enemy, and add 40% magic attack damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成150%物理攻击力的伤害，并附加40%魔法攻击力的额外伤害"
   },
   {
     "id": "skill_desc_2009_lv4",
     "desc": "技能-技能描述2009-等级4",
-    "en": "skill_desc_2009_lv4",
+    "en": "Inflict 175% physical attack damage to an enemy, and add 50% magic attack damage for extra damage",
     "size_en": "",
     "zh": "对一个敌人造成175%物理攻击力的伤害，并附加50%魔法攻击力的额外伤害"
   },
   {
     "id": "skill_desc_2009_lv5",
     "desc": "技能-技能描述2009-等级5",
-    "en": "skill_desc_2009_lv5",
+    "en": "Inflict 200% physical attack damage to an enemy, and add 60% magic attack damage for additional damage",
     "size_en": "",
     "zh": "对一个敌人造成200%物理攻击力的伤害，并附加60%魔法攻击力的额外伤害"
   },
@@ -10855,35 +10855,35 @@
   {
     "id": "skill_desc_2010_lv1",
     "desc": "技能-技能描述2010-等级1",
-    "en": "skill_desc_2010_lv1",
+    "en": "Regenerate 20 HP",
     "size_en": "",
     "zh": "自身回复20生命值"
   },
   {
     "id": "skill_desc_2010_lv2",
     "desc": "技能-技能描述2010-等级2",
-    "en": "skill_desc_2010_lv2",
+    "en": "Regenerate 25 HP",
     "size_en": "",
     "zh": "自身回复25生命值"
   },
   {
     "id": "skill_desc_2010_lv3",
     "desc": "技能-技能描述2010-等级3",
-    "en": "skill_desc_2010_lv3",
+    "en": "Regenerate 30 HP",
     "size_en": "",
     "zh": "自身回复30生命值"
   },
   {
     "id": "skill_desc_2010_lv4",
     "desc": "技能-技能描述2010-等级4",
-    "en": "skill_desc_2010_lv4",
+    "en": "Regenerate 35 HP",
     "size_en": "",
     "zh": "自身回复35生命值"
   },
   {
     "id": "skill_desc_2010_lv5",
     "desc": "技能-技能描述2010-等级5",
-    "en": "skill_desc_2010_lv5",
+    "en": "Regenerate 40 HP",
     "size_en": "",
     "zh": "自身回复40生命值"
   },
@@ -10897,35 +10897,35 @@
   {
     "id": "skill_desc_2011_lv1",
     "desc": "技能-技能描述2011-等级1",
-    "en": "skill_desc_2011_lv1",
+    "en": "Inflict 140% physical damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成140%物理攻击力的伤害"
   },
   {
     "id": "skill_desc_2011_lv2",
     "desc": "技能-技能描述2011-等级2",
-    "en": "skill_desc_2011_lv2",
+    "en": "Inflict 170% physical damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成170%物理攻击力的伤害"
   },
   {
     "id": "skill_desc_2011_lv3",
     "desc": "技能-技能描述2011-等级3",
-    "en": "skill_desc_2011_lv3",
+    "en": "Inflict 200% physical damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成200%物理攻击力的伤害"
   },
   {
     "id": "skill_desc_2011_lv4",
     "desc": "技能-技能描述2011-等级4",
-    "en": "skill_desc_2011_lv4",
+    "en": "Inflict 230% physical damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成230%物理攻击力的伤害"
   },
   {
     "id": "skill_desc_2011_lv5",
     "desc": "技能-技能描述2011-等级5",
-    "en": "skill_desc_2011_lv5",
+    "en": "Inflict 260% physical damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成260%物理攻击力的伤害"
   },
@@ -10939,77 +10939,77 @@
   {
     "id": "skill_desc_2012_lv1",
     "desc": "技能-技能描述2012-等级1",
-    "en": "skill_desc_2012_lv1",
+    "en": "Passively increase your physical defense by 20%",
     "size_en": "",
     "zh": "被动增加自身20%物理防御力"
   },
   {
     "id": "skill_desc_2012_lv2",
     "desc": "技能-技能描述2012-等级2",
-    "en": "skill_desc_2012_lv2",
+    "en": "Passively increase your physical defense by 21%",
     "size_en": "",
     "zh": "被动增加自身21%物理防御力"
   },
   {
     "id": "skill_desc_2012_lv3",
     "desc": "技能-技能描述2012-等级3",
-    "en": "skill_desc_2012_lv3",
+    "en": "Passively increase your physical defense by 22%",
     "size_en": "",
     "zh": "被动增加自身22%物理防御力"
   },
   {
     "id": "skill_desc_2012_lv4",
     "desc": "技能-技能描述2012-等级4",
-    "en": "skill_desc_2012_lv4",
+    "en": "Passively increases physical defense by 23%",
     "size_en": "",
     "zh": "被动增加自身23%物理防御力"
   },
   {
     "id": "skill_desc_2012_lv5",
     "desc": "技能-技能描述2012-等级5",
-    "en": "skill_desc_2012_lv5",
+    "en": "Passively increase physical defense by 24%",
     "size_en": "",
     "zh": "被动增加自身24%物理防御力"
   },
   {
     "id": "skill_desc_3001_lv0",
     "desc": "技能-技能描述3001-等级0",
-    "en": "Unlock Hero",
+    "en": "Don't have the skill",
     "size_en": "",
     "zh": "尚未拥有该技能"
   },
   {
     "id": "skill_desc_3001_lv1",
     "desc": "技能-技能描述3001-等级1",
-    "en": "skill_desc_3001_lv1",
+    "en": "Inflict 150% magic attack damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成150%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_3001_lv2",
     "desc": "技能-技能描述3001-等级2",
-    "en": "skill_desc_3001_lv2",
+    "en": "Inflict 160% magic attack damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成160%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_3001_lv3",
     "desc": "技能-技能描述3001-等级3",
-    "en": "skill_desc_3001_lv3",
+    "en": "Inflict 170% magic attack damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成170%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_3001_lv4",
     "desc": "技能-技能描述3001-等级4",
-    "en": "skill_desc_3001_lv4",
+    "en": "Deal 180% magic attack damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成180%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_3001_lv5",
     "desc": "技能-技能描述3001-等级5",
-    "en": "skill_desc_3001_lv5",
+    "en": "Deal 190% magic attack damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成190%魔法攻击力的伤害"
   },
@@ -11023,35 +11023,34 @@
   {
     "id": "skill_desc_3002_lv1",
     "desc": "技能-技能描述3002-等级1",
-    "en": "skill_desc_3002_lv1",
+    "en": "Deals 60% magical damage to all enemies",
     "size_en": "",
     "zh": "对全体敌人造成60%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_3002_lv2",
     "desc": "技能-技能描述3002-等级2",
-    "en": "skill_desc_3002_lv2",
-    "size_en": "",
+    "en": "Inflict 65% magic attack damage to all enemies": "",
     "zh": "对全体敌人造成65%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_3002_lv3",
     "desc": "技能-技能描述3002-等级3",
-    "en": "skill_desc_3002_lv3",
+    "en": "Inflict 70% magic attack damage to all enemies",
     "size_en": "",
     "zh": "对全体敌人造成70%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_3002_lv4",
     "desc": "技能-技能描述3002-等级4",
-    "en": "skill_desc_3002_lv4",
+    "en": "Inflict 75% magic attack damage to all enemies",
     "size_en": "",
     "zh": "对全体敌人造成75%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_3002_lv5",
     "desc": "技能-技能描述3002-等级5",
-    "en": "skill_desc_3002_lv5",
+    "en": "Deals 80% magical damage to all enemies",
     "size_en": "",
     "zh": "对全体敌人造成80%魔法攻击力的伤害"
   },
@@ -11065,126 +11064,126 @@
   {
     "id": "skill_desc_3003_lv1",
     "desc": "技能-技能描述3003-等级1",
-    "en": "skill_desc_3003_lv1",
+    "en": "Passively increase your magical attack power by 11%",
     "size_en": "",
     "zh": "被动提升自身11%魔法攻击力"
   },
   {
     "id": "skill_desc_3003_lv2",
     "desc": "技能-技能描述3003-等级2",
-    "en": "skill_desc_3003_lv2",
+    "en": "Passively increase your magical attack power by 12%",
     "size_en": "",
     "zh": "被动提升自身12%魔法攻击力"
   },
   {
     "id": "skill_desc_3003_lv3",
     "desc": "技能-技能描述3003-等级3",
-    "en": "skill_desc_3003_lv3",
+    "en": "Passively increase your magical attack power by 13%",
     "size_en": "",
     "zh": "被动提升自身13%魔法攻击力"
   },
   {
     "id": "skill_desc_3003_lv4",
     "desc": "技能-技能描述3003-等级4",
-    "en": "skill_desc_3003_lv4",
+    "en": "Passively increase your magical attack power by 14%",
     "size_en": "",
     "zh": "被动提升自身14%魔法攻击力"
   },
   {
     "id": "skill_desc_3003_lv5",
     "desc": "技能-技能描述3003-等级5",
-    "en": "skill_desc_3003_lv5",
+    "en": "Passively increase your magical attack power by 15%",
     "size_en": "",
     "zh": "被动提升自身15%魔法攻击力"
   },
   {
     "id": "skill_desc_3004_lv0",
     "desc": "技能-技能描述3004-等级0",
-    "en": "skill_desc_3004_lv0",
+    "en": "Unlock at level 7",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到7级可解锁"
   },
   {
     "id": "skill_desc_3004_lv1",
     "desc": "技能-技能描述3004-等级1",
-    "en": "skill_desc_3004_lv1",
+    "en": "Inflict 50% magic attack damage to all enemies and reduce 10% defense power for three rounds",
     "size_en": "",
     "zh": "对全体敌人造成50%魔法攻击力的伤害，并减少10%防御力，持续三回合"
   },
   {
     "id": "skill_desc_3004_lv2",
     "desc": "技能-技能描述3004-等级2",
-    "en": "skill_desc_3004_lv2",
+    "en": "Inflicts 55% magic attack damage to all enemies and reduces 11% defense power for three rounds",
     "size_en": "",
     "zh": "对全体敌人造成55%魔法攻击力的伤害，并减少11%防御力，持续三回合"
   },
   {
     "id": "skill_desc_3004_lv3",
     "desc": "技能-技能描述3004-等级3",
-    "en": "skill_desc_3004_lv3",
+    "en": "Inflict 60% magic attack damage to all enemies and reduce 12% defense power for three rounds",
     "size_en": "",
     "zh": "对全体敌人造成60%魔法攻击力的伤害，并减少12%防御力，持续三回合"
   },
   {
     "id": "skill_desc_3004_lv4",
     "desc": "技能-技能描述3004-等级4",
-    "en": "skill_desc_3004_lv4",
+    "en": "Inflicts 65% magic attack damage to all enemies and reduces 13% defense power for three rounds",
     "size_en": "",
     "zh": "对全体敌人造成65%魔法攻击力的伤害，并减少13%防御力，持续三回合"
   },
   {
     "id": "skill_desc_3004_lv5",
     "desc": "技能-技能描述3004-等级5",
-    "en": "skill_desc_3004_lv5",
+    "en": "Inflict 70% magic attack damage to all enemies and reduce 14% defense power for three rounds",
     "size_en": "",
     "zh": "对全体敌人造成70%魔法攻击力的伤害，并减少14%防御力，持续三回合"
   },
   {
     "id": "skill_desc_3005_lv0",
     "desc": "技能-技能描述3005-等级0",
-    "en": "skill_desc_3005_lv0",
+    "en": "Unlock at level 9",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到9级可解锁"
   },
   {
     "id": "skill_desc_3005_lv1",
     "desc": "技能-技能描述3005-等级1",
-    "en": "skill_desc_3005_lv1",
+    "en": "Inflict 140% magic attack damage to an enemy and reduce 10% defense power for one round",
     "size_en": "",
     "zh": "对一个敌人造成140%魔法攻击力的伤害，并减少10%防御力，持续一回合"
   },
   {
     "id": "skill_desc_3005_lv2",
     "desc": "技能-技能描述3005-等级2",
-    "en": "skill_desc_3005_lv2",
+    "en": "Inflict 160% magic attack damage to an enemy and reduce 15% defense power for one round",
     "size_en": "",
     "zh": "对一个敌人造成160%魔法攻击力的伤害，并减少15%防御力，持续一回合"
   },
   {
     "id": "skill_desc_3005_lv3",
     "desc": "技能-技能描述3005-等级3",
-    "en": "skill_desc_3005_lv3",
+    "en": "Inflict 180% magic attack damage to an enemy and reduce 20% defense power for one round",
     "size_en": "",
     "zh": "对一个敌人造成180%魔法攻击力的伤害，并减少20%防御力，持续一回合"
   },
   {
     "id": "skill_desc_3005_lv4",
     "desc": "技能-技能描述3005-等级4",
-    "en": "skill_desc_3005_lv4",
+    "en": "Inflicts 200% magic attack damage to an enemy and reduces 25% defense power for one round",
     "size_en": "",
     "zh": "对一个敌人造成200%魔法攻击力的伤害，并减少25%防御力，持续一回合"
   },
   {
     "id": "skill_desc_3005_lv5",
     "desc": "技能-技能描述3005-等级5",
-    "en": "skill_desc_3005_lv5",
+    "en": "Inflict 220% magic attack damage to an enemy and reduce 30% defense power for one round",
     "size_en": "",
     "zh": "对一个敌人造成220%魔法攻击力的伤害，并减少30%防御力，持续一回合"
   },
   {
     "id": "skill_desc_3006_lv0",
     "desc": "技能-技能描述3006-等级0",
-    "en": "skill_desc_3006_lv0",
+    "en": "Unlock at level 11",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到11级可解锁"
   },
@@ -11226,252 +11225,252 @@
   {
     "id": "skill_desc_3007_lv0",
     "desc": "技能-技能描述3007-等级0",
-    "en": "skill_desc_3007_lv0",
+    "en": "Unlock at level 7",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到7级可解锁"
   },
   {
     "id": "skill_desc_3007_lv1",
     "desc": "技能-技能描述3007-等级1",
-    "en": "skill_desc_3007_lv1",
+    "en": "Inflict 40% magic attack damage to all enemies and reduce 25% magic attack power for three rounds",
     "size_en": "",
     "zh": "对敌方全体造成40%魔法攻击力的伤害，并降低25%魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_3007_lv2",
     "desc": "技能-技能描述3007-等级2",
-    "en": "skill_desc_3007_lv2",
+    "en": "Inflict 50% magic attack damage to all enemies, and reduce 25% magic attack power for three rounds",
     "size_en": "",
     "zh": "对敌方全体造成50%魔法攻击力的伤害，并降低25%魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_3007_lv3",
     "desc": "技能-技能描述3007-等级3",
-    "en": "skill_desc_3007_lv3",
+    "en": "Inflicts 60% magic attack damage to all enemies and reduces 25% magic attack power for three rounds",
     "size_en": "",
     "zh": "对敌方全体造成60%魔法攻击力的伤害，并降低25%魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_3007_lv4",
     "desc": "技能-技能描述3007-等级4",
-    "en": "skill_desc_3007_lv4",
+    "en": "Inflict 70% magic attack damage to all enemies and reduce 25% magic attack power for three rounds",
     "size_en": "",
     "zh": "对敌方全体造成70%魔法攻击力的伤害，并降低25%魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_3007_lv5",
     "desc": "技能-技能描述3007-等级5",
-    "en": "skill_desc_3007_lv5",
+    "en": "Inflict 80% magic attack damage to all enemies and reduce 25% magic attack power for three rounds",
     "size_en": "",
     "zh": "对敌方全体造成80%魔法攻击力的伤害，并降低25%魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_3008_lv0",
     "desc": "技能-技能描述3008-等级0",
-    "en": "skill_desc_3008_lv0",
+    "en": "Unlock at level 9",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到9级可解锁"
   },
   {
     "id": "skill_desc_3008_lv1",
     "desc": "技能-技能描述3008-等级1",
-    "en": "skill_desc_3008_lv1",
+    "en": "Randomly apply a 15% reduction in magic defense power to the enemy three times for five rounds",
     "size_en": "",
     "zh": "随机对敌人施加三次魔法防御力下降15%的效果，持续五回合"
   },
   {
     "id": "skill_desc_3008_lv2",
     "desc": "技能-技能描述3008-等级2",
-    "en": "skill_desc_3008_lv2",
+    "en": "Randomly apply a 20% reduction in magic defense power to the enemy three times for five rounds",
     "size_en": "",
     "zh": "随机对敌人施加三次魔法防御力下降20%的效果，持续五回合"
   },
   {
     "id": "skill_desc_3008_lv3",
     "desc": "技能-技能描述3008-等级3",
-    "en": "skill_desc_3008_lv3",
+    "en": "Randomly apply a 25% reduction in magic defense power to the enemy three times for five rounds",
     "size_en": "",
     "zh": "随机对敌人施加三次魔法防御力下降25%的效果，持续五回合"
   },
   {
     "id": "skill_desc_3008_lv4",
     "desc": "技能-技能描述3008-等级4",
-    "en": "skill_desc_3008_lv4",
+    "en": "Randomly apply a 30% reduction in magic defense power to the enemy three times for five rounds",
     "size_en": "",
     "zh": "随机对敌人施加三次魔法防御力下降30%的效果，持续五回合"
   },
   {
     "id": "skill_desc_3008_lv5",
     "desc": "技能-技能描述3008-等级5",
-    "en": "skill_desc_3008_lv5",
+    "en": "Randomly apply a 35% reduction in magic defense power to the enemy three times for five rounds",
     "size_en": "",
     "zh": "随机对敌人施加三次魔法防御力下降35%的效果，持续五回合"
   },
   {
     "id": "skill_desc_3009_lv0",
     "desc": "技能-技能描述3009-等级0",
-    "en": "skill_desc_3009_lv0",
+    "en": "Unlock at level 11",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到11级可解锁"
   },
   {
     "id": "skill_desc_3009_lv1",
     "desc": "技能-技能描述3009-等级1",
-    "en": "skill_desc_3009_lv1",
+    "en": "Randomly attack four times with 40% magic attack damage",
     "size_en": "",
     "zh": "以40%魔法攻击力的伤害随机攻击四次"
   },
   {
     "id": "skill_desc_3009_lv2",
     "desc": "技能-技能描述3009-等级2",
-    "en": "skill_desc_3009_lv2",
+    "en": "Randomly attack four times with 45% magic attack damage",
     "size_en": "",
     "zh": "以45%魔法攻击力的伤害随机攻击四次"
   },
   {
     "id": "skill_desc_3009_lv3",
     "desc": "技能-技能描述3009-等级3",
-    "en": "skill_desc_3009_lv3",
+    "en": "Randomly attack four times with 50% magic attack damage",
     "size_en": "",
     "zh": "以50%魔法攻击力的伤害随机攻击四次"
   },
   {
     "id": "skill_desc_3009_lv4",
     "desc": "技能-技能描述3009-等级4",
-    "en": "skill_desc_3009_lv4",
+    "en": "Randomly attack four times with 55% magic attack damage",
     "size_en": "",
     "zh": "以55%魔法攻击力的伤害随机攻击四次"
   },
   {
     "id": "skill_desc_3009_lv5",
     "desc": "技能-技能描述3009-等级5",
-    "en": "skill_desc_3009_lv5",
+    "en": "Randomly attack four times with 60% magic attack damage",
     "size_en": "",
     "zh": "以60%魔法攻击力的伤害随机攻击四次"
   },
   {
     "id": "skill_desc_3010_lv0",
     "desc": "技能-技能描述3010-等级0",
-    "en": "skill_desc_3010_lv0",
+    "en": "Unlock at level 7",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到7级可解锁"
   },
   {
     "id": "skill_desc_3010_lv1",
     "desc": "技能-技能描述3010-等级1",
-    "en": "skill_desc_3010_lv1",
+    "en": "Increase the magical attack power of all allies by 20% for 2 rounds",
     "size_en": "",
     "zh": "提升友方全体20%魔法攻击力，持续2回合"
   },
   {
     "id": "skill_desc_3010_lv2",
     "desc": "技能-技能描述3010-等级2",
-    "en": "skill_desc_3010_lv2",
+    "en": "Increase the magical attack power of all allies by 25% for 2 rounds",
     "size_en": "",
     "zh": "提升友方全体25%魔法攻击力，持续2回合"
   },
   {
     "id": "skill_desc_3010_lv3",
     "desc": "技能-技能描述3010-等级3",
-    "en": "skill_desc_3010_lv3",
+    "en": "Increase the magical attack power of all allies by 30% for 2 rounds",
     "size_en": "",
     "zh": "提升友方全体30%魔法攻击力，持续2回合"
   },
   {
     "id": "skill_desc_3010_lv4",
     "desc": "技能-技能描述3010-等级4",
-    "en": "skill_desc_3010_lv4",
+    "en": "Increase the magical attack power of all allies by 35% for 2 rounds",
     "size_en": "",
     "zh": "提升友方全体35%魔法攻击力，持续2回合"
   },
   {
     "id": "skill_desc_3010_lv5",
     "desc": "技能-技能描述3010-等级5",
-    "en": "skill_desc_3010_lv5",
+    "en": "Increase the magical attack power of all allies by 40% for 2 rounds",
     "size_en": "",
     "zh": "提升友方全体40%魔法攻击力，持续2回合"
   },
   {
     "id": "skill_desc_3011_lv0",
     "desc": "技能-技能描述3011-等级0",
-    "en": "skill_desc_3011_lv0",
+    "en": "Unlock at level 9",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到9级可解锁"
   },
   {
     "id": "skill_desc_3011_lv1",
     "desc": "技能-技能描述3011-等级1",
-    "en": "skill_desc_3011_lv1",
+    "en": "Passively increase their magical attack power and defense power by 15%",
     "size_en": "",
     "zh": "被动提升自身15%魔法攻击力和防御力"
   },
   {
     "id": "skill_desc_3011_lv2",
     "desc": "技能-技能描述3011-等级2",
-    "en": "skill_desc_3011_lv2",
+    "en": "Passively increase your own magic attack power and defense power by 16%",
     "size_en": "",
     "zh": "被动提升自身16%魔法攻击力和防御力"
   },
   {
     "id": "skill_desc_3011_lv3",
     "desc": "技能-技能描述3011-等级3",
-    "en": "skill_desc_3011_lv3",
+    "en": "Passively increase your magical attack power and defense power by 17%",
     "size_en": "",
     "zh": "被动提升自身17%魔法攻击力和防御力"
   },
   {
     "id": "skill_desc_3011_lv4",
     "desc": "技能-技能描述3011-等级4",
-    "en": "skill_desc_3011_lv4",
+    "en": "Passively increase their magical attack power and defense power by 18%",
     "size_en": "",
     "zh": "被动提升自身18%魔法攻击力和防御力"
   },
   {
     "id": "skill_desc_3011_lv5",
     "desc": "技能-技能描述3011-等级5",
-    "en": "skill_desc_3011_lv5",
+    "en": "Passively increase their magical attack power and defense power by 19%",
     "size_en": "",
     "zh": "被动提升自身19%魔法攻击力和防御力"
   },
   {
     "id": "skill_desc_3012_lv0",
     "desc": "技能-技能描述3012-等级0",
-    "en": "skill_desc_3012_lv0",
+    "en": "Unlock at level 11",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到11级可解锁"
   },
   {
     "id": "skill_desc_3012_lv1",
     "desc": "技能-技能描述3012-等级1",
-    "en": "skill_desc_3012_lv1",
+    "en": "Deal 200% magic attack damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成200%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_3012_lv2",
     "desc": "技能-技能描述3012-等级2",
-    "en": "skill_desc_3012_lv2",
+    "en": "Inflict 220% magic attack damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成220%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_3012_lv3",
     "desc": "技能-技能描述3012-等级3",
-    "en": "skill_desc_3012_lv3",
+    "en": "Inflict 240% magic attack damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成240%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_3012_lv4",
     "desc": "技能-技能描述3012-等级4",
-    "en": "skill_desc_3012_lv4",
+    "en": "Deal 260% magic attack damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成260%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_3012_lv5",
     "desc": "技能-技能描述3012-等级5",
-    "en": "skill_desc_3012_lv5",
+    "en": "Inflict 280% magic attack damage to an enemy",
     "size_en": "",
     "zh": "对一个敌人造成280%魔法攻击力的伤害"
   },
@@ -11989,497 +11988,498 @@
   {
     "id": "skill_desc_5001_lv1",
     "desc": "技能-技能描述5001-等级1",
-    "en": "skill_desc_5001_lv1",
+    "en": "Increases the magical attack power of a friendly by 30% for three rounds",
     "size_en": "",
     "zh": "提升一个友方30%的魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_5001_lv2",
     "desc": "技能-技能描述5001-等级2",
-    "en": "skill_desc_5001_lv2",
+    "en": "Increases the magical attack power of an allied party by 35% for three rounds",
     "size_en": "",
     "zh": "提升一个友方35%的魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_5001_lv3",
     "desc": "技能-技能描述5001-等级3",
-    "en": "skill_desc_5001_lv3",
+    "en": "Increases the magical attack power of an allied party by 40% for three rounds",
     "size_en": "",
     "zh": "提升一个友方40%的魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_5001_lv4",
     "desc": "技能-技能描述5001-等级4",
-    "en": "skill_desc_5001_lv4",
+    "en": "Increases the magical attack power of an allied party by 45% for three rounds",
     "size_en": "",
     "zh": "提升一个友方45%的魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_5001_lv5",
     "desc": "技能-技能描述5001-等级5",
-    "en": "skill_desc_5001_lv5",
+    "en": "Increases the magical attack power of an allied party by 50% for three rounds",
     "size_en": "",
     "zh": "提升一个友方50%的魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_5002_lv0",
     "desc": "技能-技能描述5002-等级0",
-    "en": "skill_desc_5002_lv0",
+    "en": "Unlock at level 3",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到3级可解锁"
   },
   {
     "id": "skill_desc_5002_lv1",
     "desc": "技能-技能描述5002-等级1",
-    "en": "skill_desc_5002_lv1",
+    "en": "Decrease the magic defense power of all enemies by 14% for one round",
     "size_en": "",
     "zh": "降低敌方全体14%的魔法防御力，持续一回合"
   },
   {
     "id": "skill_desc_5002_lv2",
     "desc": "技能-技能描述5002-等级2",
-    "en": "skill_desc_5002_lv2",
+    "en": "Decrease the magic defense power of all enemies by 18% for one round",
     "size_en": "",
     "zh": "降低敌方全体18%的魔法防御力，持续一回合"
   },
   {
     "id": "skill_desc_5002_lv3",
     "desc": "技能-技能描述5002-等级3",
-    "en": "skill_desc_5002_lv3",
+    "en": "Decrease the magic defense power of all enemies by 22% for one round",
     "size_en": "",
     "zh": "降低敌方全体22%的魔法防御力，持续一回合"
   },
   {
     "id": "skill_desc_5002_lv4",
     "desc": "技能-技能描述5002-等级4",
-    "en": "skill_desc_5002_lv4",
+    "en": "Decrease the magical defense of all enemies by 26% for one round",
     "size_en": "",
     "zh": "降低敌方全体26%的魔法防御力，持续一回合"
   },
   {
     "id": "skill_desc_5002_lv5",
     "desc": "技能-技能描述5002-等级5",
-    "en": "skill_desc_5002_lv5",
+    "en": "Decrease the magic defense power of all enemies by 30% for one round",
     "size_en": "",
     "zh": "降低敌方全体30%的魔法防御力，持续一回合"
   },
   {
     "id": "skill_desc_5003_lv0",
     "desc": "技能-技能描述5003-等级0",
-    "en": "skill_desc_5003_lv0",
+    "en": "Unlock at level 5",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到5级可解锁"
   },
   {
     "id": "skill_desc_5003_lv1",
     "desc": "技能-技能描述5003-等级1",
-    "en": "skill_desc_5003_lv1",
+    "en": "Passively increase your magical defense by 10%",
     "size_en": "",
     "zh": "被动提升自身10%的魔法防御力"
   },
   {
     "id": "skill_desc_5003_lv2",
     "desc": "技能-技能描述5003-等级2",
-    "en": "skill_desc_5003_lv2",
+    "en": "Passively increase your magical defense by 11%",
     "size_en": "",
     "zh": "被动提升自身11%的魔法防御力"
   },
   {
     "id": "skill_desc_5003_lv3",
     "desc": "技能-技能描述5003-等级3",
-    "en": "skill_desc_5003_lv3",
+    "en": "Passively increase your magical defense by 12%",
     "size_en": "",
     "zh": "被动提升自身12%的魔法防御力"
   },
   {
     "id": "skill_desc_5003_lv4",
     "desc": "技能-技能描述5003-等级4",
-    "en": "skill_desc_5003_lv4",
+    "en": "Passively increase your magical defense by 13%",
     "size_en": "",
     "zh": "被动提升自身13%的魔法防御力"
   },
   {
     "id": "skill_desc_5003_lv5",
     "desc": "技能-技能描述5003-等级5",
-    "en": "skill_desc_5003_lv5",
+    "en": "Passively increase your magical defense by 14%",
     "size_en": "",
     "zh": "被动提升自身14%的魔法防御力"
   },
   {
     "id": "skill_desc_5004_lv0",
     "desc": "技能-技能描述5004-等级0",
-    "en": "skill_desc_5004_lv0",
+    "en": "Unlock at level 7",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到7级可解锁"
   },
   {
     "id": "skill_desc_5004_lv1",
     "desc": "技能-技能描述5004-等级1",
-    "en": "skill_desc_5004_lv1",
+    "en": "Inflict 60% magic attack damage to all enemies",
     "size_en": "",
     "zh": "对敌方全体造成60%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_5004_lv2",
     "desc": "技能-技能描述5004-等级2",
-    "en": "skill_desc_5004_lv2",
+    "en": "Inflict 70% magic attack damage to all enemies",
     "size_en": "",
     "zh": "对敌方全体造成70%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_5004_lv3",
     "desc": "技能-技能描述5004-等级3",
-    "en": "skill_desc_5004_lv3",
+    "en": "Deals 80% of the magical attack damage to all enemies",
     "size_en": "",
     "zh": "对敌方全体造成80%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_5004_lv4",
     "desc": "技能-技能描述5004-等级4",
-    "en": "skill_desc_5004_lv4",
+    "en": "Inflict 90% magic attack damage to all enemies",
     "size_en": "",
     "zh": "对敌方全体造成90%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_5004_lv5",
     "desc": "技能-技能描述5004-等级5",
-    "en": "skill_desc_5004_lv5",
+    "en": "Inflict 100% magic attack damage on all enemies",
     "size_en": "",
     "zh": "对敌方全体造成100%魔法攻击力的伤害"
   },
   {
     "id": "skill_desc_5005_lv0",
     "desc": "技能-技能描述5005-等级0",
-    "en": "skill_desc_5005_lv0",
+    "en": "Unlock at level 9",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到9级可解锁"
   },
   {
     "id": "skill_desc_5005_lv1",
     "desc": "技能-技能描述5005-等级1",
-    "en": "skill_desc_5005_lv1",
+    "en": "Heal his own health by 25 and increase his magical defense power by 20% in three rounds",
     "size_en": "",
     "zh": "回复自身25的生命值，并在三回合内提升自身20%魔法防御力"
   },
   {
     "id": "skill_desc_5005_lv2",
     "desc": "技能-技能描述5005-等级2",
-    "en": "skill_desc_5005_lv2",
+    "en": "Recover 30 HP and increase your magical defense power by 20% within three rounds",
     "size_en": "",
     "zh": "回复自身30的生命值，并在三回合内提升自身20%魔法防御力"
   },
   {
     "id": "skill_desc_5005_lv3",
     "desc": "技能-技能描述5005-等级3",
-    "en": "skill_desc_5005_lv3",
+    "en": "Recover 35 HP and increase your magical defense power by 20% in three rounds",
     "size_en": "",
     "zh": "回复自身35的生命值，并在三回合内提升自身20%魔法防御力"
   },
   {
     "id": "skill_desc_5005_lv4",
     "desc": "技能-技能描述5005-等级4",
-    "en": "skill_desc_5005_lv4",
+    "en": "Recover 40 HP and increase your magical defense power by 20% in three rounds",
     "size_en": "",
     "zh": "回复自身40的生命值，并在三回合内提升自身20%魔法防御力"
   },
   {
     "id": "skill_desc_5005_lv5",
     "desc": "技能-技能描述5005-等级5",
-    "en": "skill_desc_5005_lv5",
+    "en": "Heal his own 45 HP and increase his magical defense power by 20% in three rounds",
     "size_en": "",
     "zh": "回复自身45的生命值，并在三回合内提升自身20%魔法防御力"
   },
   {
     "id": "skill_desc_5006_lv0",
     "desc": "技能-技能描述5006-等级0",
-    "en": "skill_desc_5006_lv0",
+    "en": "Unlock at level 11",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到11级可解锁"
   },
   {
     "id": "skill_desc_5006_lv1",
     "desc": "技能-技能描述5006-等级1",
-    "en": "skill_desc_5006_lv1",
+    "en": "Increase the magical defense of all allies by 16% for 5 rounds",
     "size_en": "",
     "zh": "提升友方全体16%的魔法防御力，持续五回合"
   },
   {
     "id": "skill_desc_5006_lv2",
     "desc": "技能-技能描述5006-等级2",
-    "en": "skill_desc_5006_lv2",
+    "en": "Increase the magical defense power of all allies by 17% for five rounds",
     "size_en": "",
     "zh": "提升友方全体17%的魔法防御力，持续五回合"
   },
   {
     "id": "skill_desc_5006_lv3",
     "desc": "技能-技能描述5006-等级3",
-    "en": "skill_desc_5006_lv3",
+    "en": "Increase the magical defense power of all allies by 18% for 5 rounds",
     "size_en": "",
     "zh": "提升友方全体18%的魔法防御力，持续五回合"
   },
   {
     "id": "skill_desc_5006_lv4",
     "desc": "技能-技能描述5006-等级4",
-    "en": "skill_desc_5006_lv4",
+    "en": "Increase the magical defense power of all allies by 19% for 5 rounds",
     "size_en": "",
     "zh": "提升友方全体19%的魔法防御力，持续五回合"
   },
   {
     "id": "skill_desc_5006_lv5",
     "desc": "技能-技能描述5006-等级5",
-    "en": "skill_desc_5006_lv5",
+    "en": "Increase the magical defense power of all allies by 20% for 5 rounds",
     "size_en": "",
     "zh": "提升友方全体20%的魔法防御力，持续五回合"
   },
   {
     "id": "skill_desc_5007_lv0",
     "desc": "技能-技能描述5007-等级0",
-    "en": "skill_desc_5007_lv0",
+    "en": "Unlock at level 7",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到7级可解锁"
   },
   {
     "id": "skill_desc_5007_lv1",
     "desc": "技能-技能描述5007-等级1",
-    "en": "skill_desc_5007_lv1",
+    "en": "Decrease the magic attack power and magic defense power of an enemy by 20% for one round",
     "size_en": "",
     "zh": "降低一个敌人20%的魔法攻击力和魔法防御力，持续一回合"
   },
   {
     "id": "skill_desc_5007_lv2",
     "desc": "技能-技能描述5007-等级2",
-    "en": "skill_desc_5007_lv2",
+    "en": "Decrease the magic attack power and magic defense power of an enemy by 25% for one round",
     "size_en": "",
     "zh": "降低一个敌人25%的魔法攻击力和魔法防御力，持续一回合"
   },
   {
     "id": "skill_desc_5007_lv3",
     "desc": "技能-技能描述5007-等级3",
-    "en": "skill_desc_5007_lv3",
+    "en": "Decrease the magic attack power and magic defense power of an enemy by 30% for one round",
     "size_en": "",
     "zh": "降低一个敌人30%的魔法攻击力和魔法防御力，持续一回合"
   },
   {
     "id": "skill_desc_5007_lv4",
     "desc": "技能-技能描述5007-等级4",
-    "en": "skill_desc_5007_lv4",
+    "en": "Reduces an enemy’s magic attack power and magic defense power by 35% for one round",
     "size_en": "",
     "zh": "降低一个敌人35%的魔法攻击力和魔法防御力，持续一回合"
   },
   {
     "id": "skill_desc_5007_lv5",
     "desc": "技能-技能描述5007-等级5",
-    "en": "skill_desc_5007_lv5",
+    "en": "Decrease the magic attack power and magic defense power of an enemy by 40% for one round",
     "size_en": "",
     "zh": "降低一个敌人40%的魔法攻击力和魔法防御力，持续一回合"
   },
   {
     "id": "skill_desc_5008_lv0",
     "desc": "技能-技能描述5008-等级0",
-    "en": "skill_desc_5008_lv0",
+    "en": "Unlock at level 9",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到9级可解锁"
   },
   {
     "id": "skill_desc_5008_lv1",
     "desc": "技能-技能描述5008-等级1",
-    "en": "skill_desc_5008_lv1",
+    "en": "Decrease the magical attack power of an enemy by 10% for three rounds",
     "size_en": "",
     "zh": "降低一个敌人10%的魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_5008_lv2",
     "desc": "技能-技能描述5008-等级2",
-    "en": "skill_desc_5008_lv2",
+    "en": "Reduces the magical attack power of an enemy by 15% for three rounds",
     "size_en": "",
     "zh": "降低一个敌人15%的魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_5008_lv3",
     "desc": "技能-技能描述5008-等级3",
-    "en": "skill_desc_5008_lv3",
+    "en": "Reduces the magical attack power of an enemy by 20% for three rounds",
     "size_en": "",
     "zh": "降低一个敌人20%的魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_5008_lv4",
     "desc": "技能-技能描述5008-等级4",
-    "en": "skill_desc_5008_lv4",
+    "en": "Reduces the magical attack power of an enemy by 25% for three rounds",
     "size_en": "",
     "zh": "降低一个敌人25%的魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_5008_lv5",
     "desc": "技能-技能描述5008-等级5",
-    "en": "skill_desc_5008_lv5",
+    "en": "Decrease the magical attack power of an enemy by 30% for three rounds",
     "size_en": "",
     "zh": "降低一个敌人30%的魔法攻击力，持续三回合"
   },
   {
     "id": "skill_desc_5009_lv0",
     "desc": "技能-技能描述5009-等级0",
-    "en": "skill_desc_5009_lv0",
+    "en": "Unlock at level 11",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到11级可解锁"
   },
   {
     "id": "skill_desc_5009_lv1",
     "desc": "技能-技能描述5009-等级1",
-    "en": "skill_desc_5009_lv1",
+    "en": "Inflicts 35% magic attack damage to all enemies and reduces their magic attack power by 10% for ten rounds",
     "size_en": "",
     "zh": "对全体敌人造成35%魔法攻击力的伤害，并降低他们10%魔法攻击力，持续十回合"
   },
   {
     "id": "skill_desc_5009_lv2",
     "desc": "技能-技能描述5009-等级2",
-    "en": "skill_desc_5009_lv2",
+    "en": "Inflict 43% magic attack damage to all enemies and reduce their magic attack power by 11% for ten rounds",
     "size_en": "",
     "zh": "对全体敌人造成43%魔法攻击力的伤害，并降低他们11%魔法攻击力，持续十回合"
   },
   {
     "id": "skill_desc_5009_lv3",
     "desc": "技能-技能描述5009-等级3",
-    "en": "skill_desc_5009_lv3",
+    "en": "Inflict 51% magic attack damage to all enemies and reduce their magic attack power by 12% for ten rounds",
     "size_en": "",
     "zh": "对全体敌人造成51%魔法攻击力的伤害，并降低他们12%魔法攻击力，持续十回合"
   },
   {
     "id": "skill_desc_5009_lv4",
     "desc": "技能-技能描述5009-等级4",
-    "en": "skill_desc_5009_lv4",
+    "en": "Inflict 59% magic attack damage to all enemies and reduce their magic attack power by 13% for ten rounds",
     "size_en": "",
     "zh": "对全体敌人造成59%魔法攻击力的伤害，并降低他们13%魔法攻击力，持续十回合"
   },
   {
     "id": "skill_desc_5009_lv5",
     "desc": "技能-技能描述5009-等级5",
-    "en": "skill_desc_5009_lv5",
+    "en": "Inflict 67% magic attack damage to all enemies and reduce their magic attack power by 14% for ten rounds",
     "size_en": "",
     "zh": "对全体敌人造成67%魔法攻击力的伤害，并降低他们14%魔法攻击力，持续十回合"
   },
   {
     "id": "skill_desc_5010_lv0",
     "desc": "技能-技能描述5010-等级0",
-    "en": "skill_desc_5010_lv0",
+    "en": "Unlock at level 7",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到7级可解锁"
   },
   {
     "id": "skill_desc_5010_lv1",
     "desc": "技能-技能描述5010-等级1",
-    "en": "skill_desc_5010_lv1",
+    "en": "Boost your own magic attack power by 30% for three rounds, but will pay 20 health as the price after one round",
     "size_en": "",
     "zh": "提升自身30%魔法攻击力，持续三回合，但会在一回合后支付20生命值作为代价"
   },
   {
     "id": "skill_desc_5010_lv2",
     "desc": "技能-技能描述5010-等级2",
-    "en": "skill_desc_5010_lv2",
+    "en": "Increase your own 35% magic attack power for three rounds, but will pay 20 health as the price after one round",
     "size_en": "",
     "zh": "提升自身35%魔法攻击力，持续三回合，但会在一回合后支付20生命值作为代价"
   },
   {
     "id": "skill_desc_5010_lv3",
     "desc": "技能-技能描述5010-等级3",
-    "en": "skill_desc_5010_lv3",
+    "en": "Boost your own magic attack power by 40% for three rounds, but will pay 20 health as the price after one round",
     "size_en": "",
     "zh": "提升自身40%魔法攻击力，持续三回合，但会在一回合后支付20生命值作为代价"
   },
   {
     "id": "skill_desc_5010_lv4",
     "desc": "技能-技能描述5010-等级4",
-    "en": "skill_desc_5010_lv4",
+    "en": "Boost your own magic attack power by 45% for three rounds, but will pay 20 health as the price after one round",
     "size_en": "",
     "zh": "提升自身45%魔法攻击力，持续三回合，但会在一回合后支付20生命值作为代价"
   },
   {
     "id": "skill_desc_5010_lv5",
     "desc": "技能-技能描述5010-等级5",
-    "en": "skill_desc_5010_lv5",
+    "en": "Increase your magical attack power by 50% for three rounds, but will pay 20 health as the price after one round",
     "size_en": "",
     "zh": "提升自身50%魔法攻击力，持续三回合，但会在一回合后支付20生命值作为代价"
   },
   {
     "id": "skill_desc_5011_lv0",
     "desc": "技能-技能描述5011-等级0",
-    "en": "skill_desc_5011_lv0",
+    "en": "Unlock at level 9",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到9级可解锁"
   },
   {
     "id": "skill_desc_5011_lv1",
     "desc": "技能-技能描述5011-等级1",
-    "en": "skill_desc_5011_lv1",
+    "en": "Passively increases its magical attack power by 20%, but reduces its magical defense power by 15%",
     "size_en": "",
     "zh": "被动提升自身20%魔法攻击力，但会降低15%魔法防御力"
   },
   {
     "id": "skill_desc_5011_lv2",
     "desc": "技能-技能描述5011-等级2",
-    "en": "skill_desc_5011_lv2",
+    "en": "Passively increases its magical attack power by 22%, but reduces its magical defense power by 14%",
     "size_en": "",
     "zh": "被动提升自身22%魔法攻击力，但会降低14%魔法防御力"
   },
   {
     "id": "skill_desc_5011_lv3",
     "desc": "技能-技能描述5011-等级3",
-    "en": "skill_desc_5011_lv3",
+    "en": "Passively increases its own magic attack power by 24%, but reduces magic defense power by 13%",
     "size_en": "",
     "zh": "被动提升自身24%魔法攻击力，但会降低13%魔法防御力"
   },
   {
     "id": "skill_desc_5011_lv4",
     "desc": "技能-技能描述5011-等级4",
-    "en": "skill_desc_5011_lv4",
+    "en": "Passively increases their magical attack power by 26%, but reduces magical defense power by 12%",
     "size_en": "",
     "zh": "被动提升自身26%魔法攻击力，但会降低12%魔法防御力"
   },
   {
     "id": "skill_desc_5011_lv5",
     "desc": "技能-技能描述5011-等级5",
-    "en": "skill_desc_5011_lv5",
+    "en": "Passively increases its magical attack power by 28%, but reduces its magical defense power by 11%
+",
     "size_en": "",
     "zh": "被动提升自身28%魔法攻击力，但会降低11%魔法防御力"
   },
   {
     "id": "skill_desc_5012_lv0",
     "desc": "技能-技能描述5012-等级0",
-    "en": "skill_desc_5012_lv0",
+    "en": "Unlock at level 11",
     "size_en": "",
     "zh": "尚未拥有该技能,英雄等级达到11级可解锁"
   },
   {
     "id": "skill_desc_5012_lv1",
     "desc": "技能-技能描述5012-等级1",
-    "en": "skill_desc_5012_lv1",
+    "en": "Inflicts 150% magic attack damage to an enemy and reduces its magic defense power by 8% for three rounds",
     "size_en": "",
     "zh": "对一个敌人造成150%魔法攻击力的伤害，并降低它8%的魔法防御力，持续三回合"
   },
   {
     "id": "skill_desc_5012_lv2",
     "desc": "技能-技能描述5012-等级2",
-    "en": "skill_desc_5012_lv2",
+    "en": "Inflicts 175% of the magic attack power on an enemy and reduces its magic defense power by 12% for three rounds",
     "size_en": "",
     "zh": "对一个敌人造成175%魔法攻击力的伤害，并降低它12%的魔法防御力，持续三回合"
   },
   {
     "id": "skill_desc_5012_lv3",
     "desc": "技能-技能描述5012-等级3",
-    "en": "skill_desc_5012_lv3",
+    "en": "Inflict 190% magic attack damage to an enemy and reduce its magic defense power by 16% for three rounds",
     "size_en": "",
     "zh": "对一个敌人造成190%魔法攻击力的伤害，并降低它16%的魔法防御力，持续三回合"
   },
   {
     "id": "skill_desc_5012_lv4",
     "desc": "技能-技能描述5012-等级4",
-    "en": "skill_desc_5012_lv4",
+    "en": "Inflicts 205% magic attack damage to an enemy and reduces its magic defense by 20% for three rounds",
     "size_en": "",
     "zh": "对一个敌人造成205%魔法攻击力的伤害，并降低它20%的魔法防御力，持续三回合"
   },
   {
     "id": "skill_desc_5012_lv5",
     "desc": "技能-技能描述5012-等级5",
-    "en": "skill_desc_5012_lv5",
+    "en": "Inflict 220% magic attack damage to an enemy and reduce its magic defense power by 24% for three rounds",
     "size_en": "",
     "zh": "对一个敌人造成220%魔法攻击力的伤害，并降低它24%的魔法防御力，持续三回合"
   },
@@ -12745,287 +12745,287 @@
   {
     "id": "dragon_desc_101",
     "desc": "恐龙-描述-101",
-    "en": "dragon_desc_101",
+    "en": "It is very common in the entire Cartesian continent. Its stubborn temperament is its biggest feature. If a word is inconsistent, it will use its horns to pick people up.",
     "size_en": "",
     "zh": "在整个卡特斯大陆上都是很常见，倔强的牛脾气是它最大的特点，一言不合就用犄角将人挑飞。"
   },
   {
     "id": "dragon_desc_102",
     "desc": "恐龙-描述-102",
-    "en": "dragon_desc_102",
+    "en": "Body shape has an absolute advantage, but its ability to move is severely hindered, and it is easy to be tamed to be docile and harmonious, and is recognized as the most reliable partner.",
     "size_en": "",
     "zh": "体型具有绝对的优势，但是使其行动能力严重受阻，温顺和睦很容易驯服，是公认最可靠的伙伴。"
   },
   {
     "id": "dragon_desc_103",
     "desc": "恐龙-描述-103",
-    "en": "dragon_desc_103",
+    "en": "Few people have seen this rare dinosaur in the entire Cartesian continent. According to legend, this dinosaur is full of powerful thunder and lightning.",
     "size_en": "",
     "zh": "在整个卡特斯大陆上都很少有人见到过这种稀有的恐龙，相传这种恐龙全身充斥着强大的雷电之力。"
   },
   {
     "id": "dragon_desc_104",
     "desc": "恐龙-描述-104",
-    "en": "dragon_desc_104",
+    "en": "The merchants of Luna Port said: If you see it at the pier, the tide is about to come. It is a natural surfer. People think that the tide is a toy under their feet.",
     "size_en": "",
     "zh": "露娜港的商人们说:要是在码头看到它的身影就是到大潮要来了，它是天生的冲浪高手在人们看来潮汐在它们脚下就是个玩具。"
   },
   {
     "id": "dragon_desc_105",
     "desc": "恐龙-描述-105",
-    "en": "dragon_desc_105",
+    "en": "It is not a native dinosaur on this continent, and no one knows where it came from. Its special physique allows it to recover itself when it bites an enemy. It is really terrifying.",
     "size_en": "",
     "zh": "它并不是这块大陆上原生的恐龙，也没有人知道它来自何方，特殊的体质让它能在撕咬敌人时恢复自己，是它正真可怕的地方。"
   },
   {
     "id": "dragon_desc_106",
     "desc": "恐龙-描述-106",
-    "en": "dragon_desc_106",
+    "en": "A very rare and mysterious dragon, which has multiplied in the jungle for thousands of years. It is a relic of ancient times. It is said that as long as it is watched, it will be cursed and die.",
     "size_en": "",
     "zh": "非常稀有神秘的龙类，在丛林中繁衍了数千年之久，是远古时期的遗种，传说只要被它注视就会受其诅咒而亡。"
   },
   {
     "id": "dragon_desc_107",
     "desc": "恐龙-描述-107",
-    "en": "dragon_desc_107",
+    "en": "It is unbelievable that there will be such an excellent dinosaur population, with wings spreading and the clouds are shaking, and the mountains are swaying. Living in the endless permafrost, they have evolved hard tail crystals, and the chill is pressing.",
     "size_en": "",
     "zh": "难以置信会有这么优秀的恐龙种群，展翅风起云动，鸣啸地动山摇，生活在无尽冻土的它们进化出坚硬的尾部晶体，寒气逼人。"
   },
   {
     "id": "dragon_desc_108",
     "desc": "恐龙-描述-108",
-    "en": "dragon_desc_108",
+    "en": "They live near freshwater lakes all year round. They are docile and kind by nature. When floating in the lake, they are often mistaken for giant crocodiles. This perfect camouflage is their pride.",
     "size_en": "",
     "zh": "常年栖息在淡水湖附近，它们天性温顺善良，当浮游在湖中时常常被误认为是巨鳄，这完美的伪装是它们得意之处。"
   },
   {
     "id": "dragon_desc_109",
     "desc": "恐龙-描述-109",
-    "en": "dragon_desc_109",
+    "en": "I heard that this huge guy covered with frost is a god who has been cursed by frost in the snowy area of ​​Dopodola. It can freeze the enemy into ice with a single breath.",
     "size_en": "",
     "zh": "听说这种全身包裹着冰霜的巨大家伙，是多普多拉雪域上受到了冰霜诅咒的神灵，只要轻轻一口气就能将敌人冻成冰块。"
   },
   {
     "id": "dragon_desc_110",
     "desc": "恐龙-描述-110",
-    "en": "dragon_desc_110",
+    "en": "Paleoceratops is a highly aggressive species in the dinosaur population. Although not dominant in size, he is superior in wisdom and good at using ancient magic.",
     "size_en": "",
     "zh": "古角龙是在恐龙种群中攻击性极高的种类。体型虽不占优势但智慧超群，善于使用远古魔法。"
   },
   {
     "id": "dragon_desc_111",
     "desc": "恐龙-描述-111",
-    "en": "dragon_desc_111",
+    "en": "The combination of ice and fire creates its uniqueness. Alternate use of the two characteristics can perfectly knock the enemy back.",
     "size_en": "",
     "zh": "冰火合体，创造了它的独特。两种特性交替使用可以完美的将敌人击退。"
   },
   {
     "id": "dragon_desc_112",
     "desc": "恐龙-描述-112",
-    "en": "dragon_desc_112",
+    "en": "An extremely dangerous dinosaur full of bombs behind it, don't think you can defeat it. The little ghosts on the left and right will ignite the car full of bombs and kill it with you when it is in danger.",
     "size_en": "",
     "zh": "一种极其危险背后驮满炸弹的恐龙，不要妄想你能击败它，左右两边的小鬼在危难之时会把满车的炸弹点燃和你同归于尽。"
   },
   {
     "id": "dragon_desc_113",
     "desc": "恐龙-描述-113",
-    "en": "dragon_desc_113",
+    "en": "Steel Rock Dragon is a very special kind of dinosaur. Its scales are made of rocks and its defenses are extremely excellent. It appears in Funeral Dragon Bay.",
     "size_en": "",
     "zh": "钢岩龙是一种极为特殊的恐龙，全身鳞片由岩石组成，防御力极为出色，出现于葬龙湾。"
   },
   {
     "id": "dragon_desc_114",
     "desc": "恐龙-描述-114",
-    "en": "dragon_desc_114",
+    "en": "A ferocious flying dinosaur that lives on the steep cliffs of the Doomsday volcano. Through the transformation of the dragon trainer, it is equipped with a powerful rocket ejector.",
     "size_en": "",
     "zh": "一种凶猛的飞行性恐龙，栖息于陡峭的末日火山峭壁。通过驯龙师的改造，装备了火力强劲的火箭喷射器。"
   },
   {
     "id": "dragon_desc_115",
     "desc": "恐龙-描述-115",
-    "en": "dragon_desc_115",
+    "en": "Some people say that they have seen such a magical dinosaur in Stegosaurus Canyon, but can such aquatic dinosaurs really survive in that bleak desert? Maybe that's a lie at all.",
     "size_en": "",
     "zh": "有人说在剑龙峡谷见过这种神奇的恐龙，但是那片凄凉的沙漠里这样的水生恐龙真的能活下来吗？也许那根本就是骗人的吧。"
   },
   {
     "id": "dragon_desc_116",
     "desc": "恐龙-描述-116",
-    "en": "dragon_desc_116",
+    "en": "According to legend, it was a ferocious dinosaur that lived in the uninhabited burial ground of Liao. Not many people could see it, because most of the people who saw it were killed by it.",
     "size_en": "",
     "zh": "相传它是一种生活在廖无人烟的埋骨之地的凶残恐龙，能看见它的人不多，因为见过它的人大部分都被它杀死了。"
   },
   {
     "id": "dragon_desc_117",
     "desc": "恐龙-描述-117",
-    "en": "dragon_desc_117",
+    "en": "There is a crystal armor, and the crystal on the body flashes in the dark, guiding the passers-by.　　",
     "size_en": "",
     "zh": "有着一身水晶盔甲，在黑暗中闪烁身上的水晶，为路人指引方向。　　"
   },
   {
     "id": "dragon_desc_118",
     "desc": "恐龙-描述-118",
-    "en": "dragon_desc_118",
+    "en": "Are you really sure this is a dinosaur? Hahaha! Obviously it's a little bird, oops~ don't peck, don't peck, can't it be dinosaurs?",
     "size_en": "",
     "zh": "你真的确定这是一只恐龙？哈哈哈！明明是只小鸟，哎呦~别啄了，别啄了是恐龙是恐龙还不行吗？"
   },
   {
     "id": "dragon_desc_119",
     "desc": "恐龙-描述-119",
-    "en": "dragon_desc_119",
+    "en": "Believing in the Holy Light, he was covered with silver armor. He was the guardian of the Holy Light. He was driven out of the temple because he stepped into the forbidden ground.",
     "size_en": "",
     "zh": "信仰圣光，全身布满银色盔甲，曾是圣光的守护者，因步入禁地而被赶出圣殿。"
   },
   {
     "id": "dragon_desc_120",
     "desc": "恐龙-描述-120",
-    "en": "dragon_desc_120",
+    "en": "The highest-ranking dinosaur in the temple, the golden armor is extremely domineering, symbolizing the supreme divine power. Able to use a powerful holy light to protect allies and beat the enemy hard.",
     "size_en": "",
     "zh": "圣殿之中地位最高的恐龙，黄金色的铠甲无比霸气，象征着至高的神权。能够使用强大的圣光守护友军，痛击敌人。"
   },
   {
     "id": "dragon_desc_121",
     "desc": "恐龙-描述-121",
-    "en": "dragon_desc_121",
+    "en": "There is a special tribe in the ancient horned dragon. They gave up most of the ancient magic, practiced combat skills, and fought with a blast of offensive. They are the masters of the ancient horned dragon.",
     "size_en": "",
     "zh": "古角龙中有一支特别的部族，他们放弃了大部分远古魔法，修炼战技，以疾风般的攻势战斗，是古角龙中的战斗大师"
   },
   {
     "id": "dragon_desc_122",
     "desc": "恐龙-描述-122",
-    "en": "dragon_desc_122",
+    "en": "An extremely dangerous dinosaur full of bombs behind it, don't think you can defeat it. The little ghosts on the left and right will ignite the car full of bombs and kill it with you when it is in danger.",
     "size_en": "",
     "zh": "一种极其危险背后驮满炸弹的恐龙，不要妄想你能击败它，左右两边的小鬼在危难之时会把满车的炸弹点燃和你同归于尽。"
   },
   {
     "id": "gift_name_001",
     "desc": "猎人",
-    "en": "gift_name_001",
+    "en": "hunter",
     "size_en": "",
     "zh": "猎人"
   },
   {
     "id": "gift_name_002",
     "desc": "法师",
-    "en": "gift_name_002",
+    "en": "Mage",
     "size_en": "",
     "zh": "法师"
   },
   {
     "id": "gift_name_003",
     "desc": "先知",
-    "en": "gift_name_003",
+    "en": "prophet",
     "size_en": "",
     "zh": "先知"
   },
   {
     "id": "gift_name_004",
     "desc": "萨满",
-    "en": "gift_name_004",
+    "en": "Shaman",
     "size_en": "",
     "zh": "萨满"
   },
   {
     "id": "gift_name_005",
     "desc": "礼包名字5",
-    "en": "gift_name_005",
+    "en": "Stone Lord's Chest",
     "size_en": "",
     "zh": "石器领主宝箱"
   },
   {
     "id": "gift_name_006",
     "desc": "礼包名字6",
-    "en": "gift_name_006",
+    "en": "Shenlong dominates the treasure chest",
     "size_en": "",
     "zh": "神龙大主宰宝箱"
   },
   {
     "id": "gift_name_007",
     "desc": "礼包名字7",
-    "en": "gift_name_007",
+    "en": "EOS treasure chest",
     "size_en": "",
     "zh": "EOS宝箱"
   },
   {
     "id": "gift_name_008",
     "desc": "礼包名字8",
-    "en": "gift_name_008",
+    "en": "Winners are like a treasure chest",
     "size_en": "",
     "zh": "胜友如云宝箱"
   },
   {
     "id": "gift_name_009",
     "desc": "",
-    "en": "gift_name_009",
+    "en": "Friends invitation package",
     "size_en": "",
     "zh": "好友邀请礼包"
   },
   {
     "id": "gift_name_010",
     "desc": "",
-    "en": "gift_name_010",
+    "en": "Ordinary channel invitation package",
     "size_en": "",
     "zh": "普通渠道邀请礼包"
   },
   {
     "id": "gift_name_011",
     "desc": "",
-    "en": "gift_name_011",
+    "en": "Premium channel invitation package",
     "size_en": "",
     "zh": "高级渠道邀请礼包"
   },
   {
     "id": "gift_name_012",
     "desc": "",
-    "en": "gift_name_012",
+    "en": "June help package",
     "size_en": "",
     "zh": "6月助战礼包"
   },
   {
     "id": "gift_desc_001",
     "desc": "礼包说明1",
-    "en": "gift_desc_001",
+    "en": "A battle hero",
     "size_en": "",
     "zh": "一名战斗英雄"
   },
   {
     "id": "gift_desc_002",
     "desc": "礼包说明2",
-    "en": "gift_desc_002",
+    "en": "A battle hero",
     "size_en": "",
     "zh": "一名战斗英雄"
   },
   {
     "id": "gift_desc_003",
     "desc": "礼包说明3",
-    "en": "gift_desc_003",
+    "en": "A battle hero",
     "size_en": "",
     "zh": "一名战斗英雄"
   },
   {
     "id": "gift_desc_004",
     "desc": "礼包说明4",
-    "en": "gift_desc_004",
+    "en": "A battle hero",
     "size_en": "",
     "zh": "一名战斗英雄"
   },
   {
     "id": "gift_desc_005",
     "desc": "礼包说明5",
-    "en": "gift_desc_005",
+    "en": "300000 Runestones",
     "size_en": "",
     "zh": "300000符石"
   },
   {
     "id": "gift_desc_006",
     "desc": "礼包说明6",
-    "en": "gift_desc_006",
+    "en": "500000 Runestones",
     "size_en": "",
     "zh": "500000符石"
   },
   {
     "id": "gift_desc_007",
     "desc": "礼包说明7",
-    "en": "gift_desc_007",
+    "en": "Contains 3000 Runestones",
     "size_en": "",
     "zh": "内含3000符石"
   },
@@ -13039,28 +13039,28 @@
   {
     "id": "gift_desc_009",
     "desc": "",
-    "en": "gift_desc_009",
+    "en": "Enter the game through the invitation code to receive the gift pack, which contains 1000 runestones",
     "size_en": "",
     "zh": "通过邀请码进入游戏即可领取礼包，内含1000符石"
   },
   {
     "id": "gift_desc_010",
     "desc": "",
-    "en": "gift_desc_010",
+    "en": "Contains 1000 runestones and 4 grid material equipment backpack",
     "size_en": "",
     "zh": "内含1000符石和4格材料装备背包"
   },
   {
     "id": "gift_desc_011",
     "desc": "",
-    "en": "gift_desc_011",
+    "en": "Contains 3000 runestones, 4 grid material equipment backpack",
     "size_en": "",
     "zh": "内含3000符石，4格材料装备背包"
   },
   {
     "id": "gift_desc_012",
     "desc": "",
-    "en": "gift_desc_012",
+    "en": "Contains three battle heroes, 500 runes",
     "size_en": "",
     "zh": "内含三名战斗英雄，500符石"
   },
@@ -13102,28 +13102,28 @@
   {
     "id": "activity_name_5",
     "desc": "",
-    "en": "activity_name_5",
+    "en": "Hero Help Pack",
     "size_en": "",
     "zh": "英雄助战礼包"
   },
   {
     "id": "activity_name_6",
     "desc": "",
-    "en": "activity_name_6",
+    "en": "Ancient Warrior Pack",
     "size_en": "",
     "zh": "远古勇士礼包"
   },
   {
     "id": "activity_name_7",
     "desc": "",
-    "en": "activity_name_7",
+    "en": "Ancient Lord Gift Pack",
     "size_en": "",
     "zh": "远古领主礼包"
   },
   {
     "id": "activity_name_8",
     "desc": "",
-    "en": "activity_name_8",
+    "en": "Ancient Domination Pack",
     "size_en": "",
     "zh": "远古主宰礼包"
   },
@@ -13158,7 +13158,7 @@
   {
     "id": "activity_name_9",
     "desc": "",
-    "en": "activity_name_9",
+    "en": "Primary gift box",
     "size_en": "",
     "zh": "初级鉴定礼盒"
   },
@@ -13172,7 +13172,7 @@
   {
     "id": "activity_name_11",
     "desc": "",
-    "en": "Hero Help",
+    "en": "Hero Help Pack",
     "size_en": "",
     "zh": "英雄助战礼包"
   },
@@ -13200,35 +13200,35 @@
   {
     "id": "activity_name_15",
     "desc": "",
-    "en": "activity_name_15",
+    "en": "Surprise material gift box",
     "size_en": "",
     "zh": "惊喜材料礼盒"
   },
   {
     "id": "activity_decs_5",
     "desc": "",
-    "en": "activity_decs_5",
+    "en": "Contains two heroes: Hunter and Mage\n2000 Runestones\nUnlocked heroes will not be unlocked repeatedly",
     "size_en": "",
     "zh": "含猎人、法师两名英雄\\n2000符石\\n已解锁英雄不会重复解锁"
   },
   {
     "id": "activity_decs_6",
     "desc": "",
-    "en": "activity_decs_6",
+    "en": "Contains 50000 Runestones\n8 grid material equipment backpack",
     "size_en": "",
     "zh": "含50000符石\\n8格材料装备背包"
   },
   {
     "id": "activity_decs_7",
     "desc": "",
-    "en": "activity_decs_7",
+    "en": "Contains 100000 Runestones\n12 grid material equipment backpack",
     "size_en": "",
     "zh": "含100000符石\\n12格材料装备背包"
   },
   {
     "id": "activity_decs_8",
     "desc": "",
-    "en": "activity_decs_8",
+    "en": "Contains 500000 Runestones\n16 grid material equipment backpack",
     "size_en": "",
     "zh": "含500000符石\\n16格材料装备背包"
   },
@@ -13249,7 +13249,7 @@
   {
     "id": "activity_decs_3",
     "desc": "",
-    "en": "activity_decs_3",
+    "en": "Including 50 high-level incubation coupons",
     "size_en": "",
     "zh": "含高级孵化券50个"
   },
@@ -13263,7 +13263,7 @@
   {
     "id": "activity_decs_9",
     "desc": "",
-    "en": "activity_decs_9",
+    "en": "Including 10 ordinary identification coupons",
     "size_en": "",
     "zh": "含10个普通鉴定券"
   },
@@ -13305,21 +13305,21 @@
   {
     "id": "activity_decs_15",
     "desc": "",
-    "en": "activity_decs_15",
+    "en": "C ~ S material can be obtained randomly",
     "size_en": "",
     "zh": "可以随机获得一个C~S级材料"
   },
   {
     "id": "sorry_name_1",
     "desc": "",
-    "en": "sorry_name_1",
+    "en": "Compensation package",
     "size_en": "",
     "zh": "补偿礼包"
   },
   {
     "id": "sorry_decs_1",
     "desc": "",
-    "en": "sorry_decs_1",
+    "en": "1000 Runestones",
     "size_en": "",
     "zh": "含符石1000"
   },
@@ -13578,63 +13578,63 @@
   {
     "id": "material_name_jp_02_1",
     "desc": "",
-    "en": "material_name_jp_02_1",
+    "en": "Level 1 Critical Strike Resistance Essence",
     "size_en": "",
     "zh": "1级暴击抵抗精魄"
   },
   {
     "id": "material_name_jp_02_2",
     "desc": "",
-    "en": "material_name_jp_02_2",
+    "en": "Level 2 Critical Strike Resistance Essence",
     "size_en": "",
     "zh": "2级暴击抵抗精魄"
   },
   {
     "id": "material_name_jp_02_3",
     "desc": "",
-    "en": "material_name_jp_02_3",
+    "en": "Level 3 Critical Strike Resistance Essence",
     "size_en": "",
     "zh": "3级暴击抵抗精魄"
   },
   {
     "id": "material_name_jp_02_4",
     "desc": "",
-    "en": "material_name_jp_02_4",
+    "en": "Level 4 Critical Strike Resistance Essence",
     "size_en": "",
     "zh": "4级暴击抵抗精魄"
   },
   {
     "id": "material_name_jp_02_5",
     "desc": "",
-    "en": "material_name_jp_02_5",
+    "en": "Level 5 Critical Strike Resistance Essence",
     "size_en": "",
     "zh": "5级暴击抵抗精魄"
   },
   {
     "id": "material_name_jp_02_6",
     "desc": "",
-    "en": "material_name_jp_02_6",
+    "en": "Level 6 Critical Strike Resistance Essence",
     "size_en": "",
     "zh": "6级暴击抵抗精魄"
   },
   {
     "id": "material_name_jp_02_7",
     "desc": "",
-    "en": "material_name_jp_02_7",
+    "en": "Level 7 Critical Strike Resistance Essence",
     "size_en": "",
     "zh": "7级暴击抵抗精魄"
   },
   {
     "id": "material_name_jp_02_8",
     "desc": "",
-    "en": "material_name_jp_02_8",
+    "en": "Level 8 Critical Strike Resistance Essence",
     "size_en": "",
     "zh": "8级暴击抵抗精魄"
   },
   {
     "id": "material_name_jp_02_9",
     "desc": "",
-    "en": "material_name_jp_02_9",
+    "en": "Level 9 Critical Strike Resistance Essence",
     "size_en": "",
     "zh": "9级暴击抵抗精魄"
   },
@@ -13704,441 +13704,441 @@
   {
     "id": "material_name_jp_04_1",
     "desc": "",
-    "en": "material_name_jp_04_1",
+    "en": "Level 1 Magic Defense Essence",
     "size_en": "",
     "zh": "1级魔法防御精魄"
   },
   {
     "id": "material_name_jp_04_2",
     "desc": "",
-    "en": "material_name_jp_04_2",
+    "en": "Level 2 Magic Defense Essence",
     "size_en": "",
     "zh": "2级魔法防御精魄"
   },
   {
     "id": "material_name_jp_04_3",
     "desc": "",
-    "en": "material_name_jp_04_3",
+    "en": "Level 3 magic defense spirit",
     "size_en": "",
     "zh": "3级魔法防御精魄"
   },
   {
     "id": "material_name_jp_04_4",
     "desc": "",
-    "en": "material_name_jp_04_4",
+    "en": "Level 4 Magic Defense Spirit",
     "size_en": "",
     "zh": "4级魔法防御精魄"
   },
   {
     "id": "material_name_jp_04_5",
     "desc": "",
-    "en": "material_name_jp_04_5",
+    "en": "Level 5 Magic Defense Spirit",
     "size_en": "",
     "zh": "5级魔法防御精魄"
   },
   {
     "id": "material_name_jp_04_6",
     "desc": "",
-    "en": "material_name_jp_04_6",
+    "en": "Level 6 Magic Defense Spirit",
     "size_en": "",
     "zh": "6级魔法防御精魄"
   },
   {
     "id": "material_name_jp_04_7",
     "desc": "",
-    "en": "material_name_jp_04_7",
+    "en": "Level 7 magic defense spirit",
     "size_en": "",
     "zh": "7级魔法防御精魄"
   },
   {
     "id": "material_name_jp_04_8",
     "desc": "",
-    "en": "material_name_jp_04_8",
+    "en": "Level 8 Magic Defense Spirit",
     "size_en": "",
     "zh": "8级魔法防御精魄"
   },
   {
     "id": "material_name_jp_04_9",
     "desc": "",
-    "en": "material_name_jp_04_9",
+    "en": "Level 9 magic defense spirit",
     "size_en": "",
     "zh": "9级魔法防御精魄"
   },
   {
     "id": "material_name_jp_05_1",
     "desc": "",
-    "en": "material_name_jp_05_1",
+    "en": "Level 1 Defense Penetrating Essence",
     "size_en": "",
     "zh": "1级防御穿透精魄"
   },
   {
     "id": "material_name_jp_05_2",
     "desc": "",
-    "en": "material_name_jp_05_2",
+    "en": "Level 2 Defense Penetrating Essence",
     "size_en": "",
     "zh": "2级防御穿透精魄"
   },
   {
     "id": "material_name_jp_05_3",
     "desc": "",
-    "en": "material_name_jp_05_3",
+    "en": "Level 3 Defense Penetrating Essence",
     "size_en": "",
     "zh": "3级防御穿透精魄"
   },
   {
     "id": "material_name_jp_05_4",
     "desc": "",
-    "en": "material_name_jp_05_4",
+    "en": "Level 4 Defense Penetrating Essence",
     "size_en": "",
     "zh": "4级防御穿透精魄"
   },
   {
     "id": "material_name_jp_05_5",
     "desc": "",
-    "en": "material_name_jp_05_5",
+    "en": "Level 5 Defense Penetrating Essence",
     "size_en": "",
     "zh": "5级防御穿透精魄"
   },
   {
     "id": "material_name_jp_05_6",
     "desc": "",
-    "en": "material_name_jp_05_6",
+    "en": "Level 6 Defense Penetrating Essence",
     "size_en": "",
     "zh": "6级防御穿透精魄"
   },
   {
     "id": "material_name_jp_05_7",
     "desc": "",
-    "en": "material_name_jp_05_7",
+    "en": "Level 7 Defense Penetrating Essence",
     "size_en": "",
     "zh": "7级防御穿透精魄"
   },
   {
     "id": "material_name_jp_05_8",
     "desc": "",
-    "en": "material_name_jp_05_8",
+    "en": "Level 8 Defense Penetrating Essence",
     "size_en": "",
     "zh": "8级防御穿透精魄"
   },
   {
     "id": "material_name_jp_05_9",
     "desc": "",
-    "en": "material_name_jp_05_9",
+    "en": "Level 9 Defense Penetrating Essence",
     "size_en": "",
     "zh": "9级防御穿透精魄"
   },
   {
     "id": "material_name_jp_06_1",
     "desc": "",
-    "en": "material_name_jp_06_1",
+    "en": "Level 1 Defense Penetration Resistance Essence",
     "size_en": "",
     "zh": "1级防御穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_06_2",
     "desc": "",
-    "en": "material_name_jp_06_2",
+    "en": "Level 2 Defense Penetration Resistance Essence",
     "size_en": "",
     "zh": "2级防御穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_06_3",
     "desc": "",
-    "en": "material_name_jp_06_3",
+    "en": "Level 3 Defense Penetration Resistance Essence",
     "size_en": "",
     "zh": "3级防御穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_06_4",
     "desc": "",
-    "en": "material_name_jp_06_4",
+    "en": "Level 4 Defense Penetration Resistance Essence",
     "size_en": "",
     "zh": "4级防御穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_06_5",
     "desc": "",
-    "en": "material_name_jp_06_5",
+    "en": "Level 5 Defense Penetration Resistance Essence",
     "size_en": "",
     "zh": "5级防御穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_06_6",
     "desc": "",
-    "en": "material_name_jp_06_6",
+    "en": "Level 6 Defense Penetration Resistance Essence",
     "size_en": "",
     "zh": "6级防御穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_06_7",
     "desc": "",
-    "en": "material_name_jp_06_7",
+    "en": "Level 7 Defense Penetration Resistance Essence",
     "size_en": "",
     "zh": "7级防御穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_06_8",
     "desc": "",
-    "en": "material_name_jp_06_8",
+    "en": "Level 8 Defense Penetration Resistance Essence",
     "size_en": "",
     "zh": "8级防御穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_06_9",
     "desc": "",
-    "en": "material_name_jp_06_9",
+    "en": "Level 9 Defense Penetration Resistance Essence",
     "size_en": "",
     "zh": "9级防御穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_07_1",
     "desc": "",
-    "en": "material_name_jp_07_1",
+    "en": "Level 1 magic penetrating spirit",
     "size_en": "",
     "zh": "1级魔法穿透精魄"
   },
   {
     "id": "material_name_jp_07_2",
     "desc": "",
-    "en": "material_name_jp_07_2",
+    "en": "Level 2 magic penetrating spirit",
     "size_en": "",
     "zh": "2级魔法穿透精魄"
   },
   {
     "id": "material_name_jp_07_3",
     "desc": "",
-    "en": "material_name_jp_07_3",
+    "en": "Level 3 magic penetrating spirit",
     "size_en": "",
     "zh": "3级魔法穿透精魄"
   },
   {
     "id": "material_name_jp_07_4",
     "desc": "",
-    "en": "material_name_jp_07_4",
+    "en": "Level 4 magic penetrating spirit",
     "size_en": "",
     "zh": "4级魔法穿透精魄"
   },
   {
     "id": "material_name_jp_07_5",
     "desc": "",
-    "en": "material_name_jp_07_5",
+    "en": "Level 5 magic penetrating spirit",
     "size_en": "",
     "zh": "5级魔法穿透精魄"
   },
   {
     "id": "material_name_jp_07_6",
     "desc": "",
-    "en": "material_name_jp_07_6",
+    "en": "Level 6 magic penetrating spirit",
     "size_en": "",
     "zh": "6级魔法穿透精魄"
   },
   {
     "id": "material_name_jp_07_7",
     "desc": "",
-    "en": "material_name_jp_07_7",
+    "en": "Level 7 magic penetrating spirit",
     "size_en": "",
     "zh": "7级魔法穿透精魄"
   },
   {
     "id": "material_name_jp_07_8",
     "desc": "",
-    "en": "material_name_jp_07_8",
+    "en": "Level 8 magic penetrating spirit",
     "size_en": "",
     "zh": "8级魔法穿透精魄"
   },
   {
     "id": "material_name_jp_07_9",
     "desc": "",
-    "en": "material_name_jp_07_9",
+    "en": "Level 9 magic penetrating spirit",
     "size_en": "",
     "zh": "9级魔法穿透精魄"
   },
   {
     "id": "material_name_jp_08_1",
     "desc": "",
-    "en": "material_name_jp_08_1",
+    "en": "Level 1 Magic Penetration Resistance Essence",
     "size_en": "",
     "zh": "1级魔法穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_08_2",
     "desc": "",
-    "en": "material_name_jp_08_2",
+    "en": "Level 2 Magic Penetration Resistance Essence",
     "size_en": "",
     "zh": "2级魔法穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_08_3",
     "desc": "",
-    "en": "material_name_jp_08_3",
+    "en": "Level 3 Magic Penetration Resistance Essence",
     "size_en": "",
     "zh": "3级魔法穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_08_4",
     "desc": "",
-    "en": "material_name_jp_08_4",
+    "en": "Level 4 Magic Penetration Resistance Essence",
     "size_en": "",
     "zh": "4级魔法穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_08_5",
     "desc": "",
-    "en": "material_name_jp_08_5",
+    "en": "Level 5 Magic Penetration Resistance Essence",
     "size_en": "",
     "zh": "5级魔法穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_08_6",
     "desc": "",
-    "en": "material_name_jp_08_6",
+    "en": "Level 6 Magic Penetration Resistance Essence",
     "size_en": "",
     "zh": "6级魔法穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_08_7",
     "desc": "",
-    "en": "material_name_jp_08_7",
+    "en": "Level 7 Magic Penetration Resistance Essence",
     "size_en": "",
     "zh": "7级魔法穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_08_8",
     "desc": "",
-    "en": "material_name_jp_08_8",
+    "en": "Level 8 Magic Penetration Resistance Essence",
     "size_en": "",
     "zh": "8级魔法穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_08_9",
     "desc": "",
-    "en": "material_name_jp_08_9",
+    "en": "Level 9 Magic Penetration Resistance Essence",
     "size_en": "",
     "zh": "9级魔法穿透抵抗精魄"
   },
   {
     "id": "material_name_jp_09_1",
     "desc": "",
-    "en": "material_name_jp_09_1",
+    "en": "Level 1 Hit Spirit",
     "size_en": "",
     "zh": "1级命中精魄"
   },
   {
     "id": "material_name_jp_09_2",
     "desc": "",
-    "en": "material_name_jp_09_2",
+    "en": "Level 2 Hit Soul",
     "size_en": "",
     "zh": "2级命中精魄"
   },
   {
     "id": "material_name_jp_09_3",
     "desc": "",
-    "en": "material_name_jp_09_3",
+    "en": "Level 3 hit spirit",
     "size_en": "",
     "zh": "3级命中精魄"
   },
   {
     "id": "material_name_jp_09_4",
     "desc": "",
-    "en": "material_name_jp_09_4",
+    "en": "Level 4 Hit Spirit",
     "size_en": "",
     "zh": "4级命中精魄"
   },
   {
     "id": "material_name_jp_09_5",
     "desc": "",
-    "en": "material_name_jp_09_5",
+    "en": "Level 5 Hit Spirit",
     "size_en": "",
     "zh": "5级命中精魄"
   },
   {
     "id": "material_name_jp_09_6",
     "desc": "",
-    "en": "material_name_jp_09_6",
+    "en": "Level 6 Hit Spirit",
     "size_en": "",
     "zh": "6级命中精魄"
   },
   {
     "id": "material_name_jp_09_7",
     "desc": "",
-    "en": "material_name_jp_09_7",
+    "en": "Level 7 Hit Spirit",
     "size_en": "",
     "zh": "7级命中精魄"
   },
   {
     "id": "material_name_jp_09_8",
     "desc": "",
-    "en": "material_name_jp_09_8",
+    "en": "Level 8 Hit Spirit",
     "size_en": "",
     "zh": "8级命中精魄"
   },
   {
     "id": "material_name_jp_09_9",
     "desc": "",
-    "en": "material_name_jp_09_9",
+    "en": "Level 9 hit the spirit",
     "size_en": "",
     "zh": "9级命中精魄"
   },
   {
     "id": "material_name_jp_10_1",
     "desc": "",
-    "en": "material_name_jp_10_1",
+    "en": "Level 1 Evasion Spirit",
     "size_en": "",
     "zh": "1级闪避精魄"
   },
   {
     "id": "material_name_jp_10_2",
     "desc": "",
-    "en": "material_name_jp_10_2",
+    "en": "Level 2 Evasion Spirit",
     "size_en": "",
     "zh": "2级闪避精魄"
   },
   {
     "id": "material_name_jp_10_3",
     "desc": "",
-    "en": "material_name_jp_10_3",
+    "en": "Level 3 Evasion Spirit",
     "size_en": "",
     "zh": "3级闪避精魄"
   },
   {
     "id": "material_name_jp_10_4",
     "desc": "",
-    "en": "material_name_jp_10_4",
+    "en": "Level 4 Evasion Spirit",
     "size_en": "",
     "zh": "4级闪避精魄"
   },
   {
     "id": "material_name_jp_10_5",
     "desc": "",
-    "en": "material_name_jp_10_5",
+    "en": "Level 5 Evasion Spirit",
     "size_en": "",
     "zh": "5级闪避精魄"
   },
   {
     "id": "material_name_jp_10_6",
     "desc": "",
-    "en": "material_name_jp_10_6",
+    "en": "Level 6 Evasion Spirit",
     "size_en": "",
     "zh": "6级闪避精魄"
   },
   {
     "id": "material_name_jp_10_7",
     "desc": "",
-    "en": "material_name_jp_10_7",
+    "en": "Level 7 Evasion Spirit",
     "size_en": "",
     "zh": "7级闪避精魄"
   },
   {
     "id": "material_name_jp_10_8",
     "desc": "",
-    "en": "material_name_jp_10_8",
+    "en": "Level 8 Evasion Spirit",
     "size_en": "",
     "zh": "8级闪避精魄"
   },
   {
     "id": "material_name_jp_10_9",
     "desc": "",
-    "en": "material_name_jp_10_9",
+    "en": "Level 9 Evasion Spirit",
     "size_en": "",
     "zh": "9级闪避精魄"
   },
@@ -14586,378 +14586,378 @@
   {
     "id": "material_name_jpsp_05_1",
     "desc": "",
-    "en": "material_name_jpsp_05_1",
+    "en": "Level 1 Defense Penetrates Essence Fragment",
     "size_en": "",
     "zh": "1级防御穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_05_2",
     "desc": "",
-    "en": "material_name_jpsp_05_2",
+    "en": "Level 2 Defense Penetrates Essence Shards",
     "size_en": "",
     "zh": "2级防御穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_05_3",
     "desc": "",
-    "en": "material_name_jpsp_05_3",
+    "en": "Level 3 Defense Penetrates Essence Fragment",
     "size_en": "",
     "zh": "3级防御穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_05_4",
     "desc": "",
-    "en": "material_name_jpsp_05_4",
+    "en": "Level 4 Defense Penetrates Essence Fragment",
     "size_en": "",
     "zh": "4级防御穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_05_5",
     "desc": "",
-    "en": "material_name_jpsp_05_5",
+    "en": "Level 5 Defense Penetrates Essence Fragment",
     "size_en": "",
     "zh": "5级防御穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_05_6",
     "desc": "",
-    "en": "material_name_jpsp_05_6",
+    "en": "Level 6 Defense Penetrates Essence Fragment",
     "size_en": "",
     "zh": "6级防御穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_05_7",
     "desc": "",
-    "en": "material_name_jpsp_05_7",
+    "en": "Level 7 Defense Penetrates Essence Fragment",
     "size_en": "",
     "zh": "7级防御穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_05_8",
     "desc": "",
-    "en": "material_name_jpsp_05_8",
+    "en": "Level 8 Defense Penetrates Essence Fragment",
     "size_en": "",
     "zh": "8级防御穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_05_9",
     "desc": "",
-    "en": "material_name_jpsp_05_9",
+    "en": "Level 9 Defense Penetrates Essence Fragment",
     "size_en": "",
     "zh": "9级防御穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_06_1",
     "desc": "",
-    "en": "material_name_jpsp_06_1",
+    "en": "Level 1 defensive penetration resistance to fragments of spirit",
     "size_en": "",
     "zh": "1级防御穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_06_2",
     "desc": "",
-    "en": "material_name_jpsp_06_2",
+    "en": "Level 2 defensive penetration resistance to fragments of spirit",
     "size_en": "",
     "zh": "2级防御穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_06_3",
     "desc": "",
-    "en": "material_name_jpsp_06_3",
+    "en": "Level 3 defensive penetration resistance to fragments of spirit",
     "size_en": "",
     "zh": "3级防御穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_06_4",
     "desc": "",
-    "en": "material_name_jpsp_06_4",
+    "en": "Level 4 defensive penetration resistance to fragments of spirit",
     "size_en": "",
     "zh": "4级防御穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_06_5",
     "desc": "",
-    "en": "material_name_jpsp_06_5",
+    "en": "Level 5 defensive penetration resistance to fragments of spirit",
     "size_en": "",
     "zh": "5级防御穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_06_6",
     "desc": "",
-    "en": "material_name_jpsp_06_6",
+    "en": "Level 6 defensive penetration resistance to fragments of spirit",
     "size_en": "",
     "zh": "6级防御穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_06_7",
     "desc": "",
-    "en": "material_name_jpsp_06_7",
+    "en": "Level 7 defensive penetration resistance to fragments of spirit",
     "size_en": "",
     "zh": "7级防御穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_06_8",
     "desc": "",
-    "en": "material_name_jpsp_06_8",
+    "en": "Level 8 defense penetration resistance to fragments of spirit",
     "size_en": "",
     "zh": "8级防御穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_06_9",
     "desc": "",
-    "en": "material_name_jpsp_06_9",
+    "en": "9th-level defense penetration resistance to fragments of spirit",
     "size_en": "",
     "zh": "9级防御穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_07_1",
     "desc": "",
-    "en": "material_name_jpsp_07_1",
+    "en": "Level 1 Magic Penetrates Essence Fragment",
     "size_en": "",
     "zh": "1级魔法穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_07_2",
     "desc": "",
-    "en": "material_name_jpsp_07_2",
+    "en": "Level 2 Magic Penetrates Essence Fragment",
     "size_en": "",
     "zh": "2级魔法穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_07_3",
     "desc": "",
-    "en": "material_name_jpsp_07_3",
+    "en": "Level 3 Magic Penetrates Essence Fragment",
     "size_en": "",
     "zh": "3级魔法穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_07_4",
     "desc": "",
-    "en": "material_name_jpsp_07_4",
+    "en": "Level 4 Magic Penetrates Essence Fragment",
     "size_en": "",
     "zh": "4级魔法穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_07_5",
     "desc": "",
-    "en": "material_name_jpsp_07_5",
+    "en": "Level 5 Magic Penetrates Essence Fragment",
     "size_en": "",
     "zh": "5级魔法穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_07_6",
     "desc": "",
-    "en": "material_name_jpsp_07_6",
+    "en": "Level 6 Magic Penetrates Essence Fragment",
     "size_en": "",
     "zh": "6级魔法穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_07_7",
     "desc": "",
-    "en": "material_name_jpsp_07_7",
+    "en": "Level 7 Magic Penetrates Essence Fragment",
     "size_en": "",
     "zh": "7级魔法穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_07_8",
     "desc": "",
-    "en": "material_name_jpsp_07_8",
+    "en": "Level 8 Magic Penetrates Essence Fragment",
     "size_en": "",
     "zh": "8级魔法穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_07_9",
     "desc": "",
-    "en": "material_name_jpsp_07_9",
+    "en": "Level 9 Magic Penetrates Essence Fragment",
     "size_en": "",
     "zh": "9级魔法穿透精魄碎片"
   },
   {
     "id": "material_name_jpsp_08_1",
     "desc": "",
-    "en": "material_name_jpsp_08_1",
+    "en": "Level 1 Magic Penetration Resists Essence Fragment",
     "size_en": "",
     "zh": "1级魔法穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_08_2",
     "desc": "",
-    "en": "material_name_jpsp_08_2",
+    "en": "Level 2 magic penetration resistance to fragments of spirit",
     "size_en": "",
     "zh": "2级魔法穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_08_3",
     "desc": "",
-    "en": "material_name_jpsp_08_3",
+    "en": "Level 3 Magic Penetration Resistance to Spirit Shards",
     "size_en": "",
     "zh": "3级魔法穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_08_4",
     "desc": "",
-    "en": "material_name_jpsp_08_4",
+    "en": "Level 4 magic penetration resists the shards of spirit",
     "size_en": "",
     "zh": "4级魔法穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_08_5",
     "desc": "",
-    "en": "material_name_jpsp_08_5",
+    "en": "Level 5 magic penetration to resist the shards of spirit",
     "size_en": "",
     "zh": "5级魔法穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_08_6",
     "desc": "",
-    "en": "material_name_jpsp_08_6",
+    "en": "Level 6 magic penetration resists the shards of spirit",
     "size_en": "",
     "zh": "6级魔法穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_08_7",
     "desc": "",
-    "en": "material_name_jpsp_08_7",
+    "en": "Level 7 magic penetration resists the shards of spirit",
     "size_en": "",
     "zh": "7级魔法穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_08_8",
     "desc": "",
-    "en": "material_name_jpsp_08_8",
+    "en": "Level 8 magic penetration resistance to fragments of spirit",
     "size_en": "",
     "zh": "8级魔法穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_08_9",
     "desc": "",
-    "en": "material_name_jpsp_08_9",
+    "en": "9th level magic penetration resists essence fragments",
     "size_en": "",
     "zh": "9级魔法穿透抵抗精魄碎片"
   },
   {
     "id": "material_name_jpsp_09_1",
     "desc": "",
-    "en": "material_name_jpsp_09_1",
+    "en": "Level 1 hit the shard of spirit",
     "size_en": "",
     "zh": "1级命中精魄碎片"
   },
   {
     "id": "material_name_jpsp_09_2",
     "desc": "",
-    "en": "material_name_jpsp_09_2",
+    "en": "Level 2 hits the shard of spirit",
     "size_en": "",
     "zh": "2级命中精魄碎片"
   },
   {
     "id": "material_name_jpsp_09_3",
     "desc": "",
-    "en": "material_name_jpsp_09_3",
+    "en": "Level 3 hits the shard of spirit",
     "size_en": "",
     "zh": "3级命中精魄碎片"
   },
   {
     "id": "material_name_jpsp_09_4",
     "desc": "",
-    "en": "material_name_jpsp_09_4",
+    "en": "Level 4 hits the shard of spirit",
     "size_en": "",
     "zh": "4级命中精魄碎片"
   },
   {
     "id": "material_name_jpsp_09_5",
     "desc": "",
-    "en": "material_name_jpsp_09_5",
+    "en": "Level 5 hits the shard of spirit",
     "size_en": "",
     "zh": "5级命中精魄碎片"
   },
   {
     "id": "material_name_jpsp_09_6",
     "desc": "",
-    "en": "material_name_jpsp_09_6",
+    "en": "Level 6 hits the shard of spirit",
     "size_en": "",
     "zh": "6级命中精魄碎片"
   },
   {
     "id": "material_name_jpsp_09_7",
     "desc": "",
-    "en": "material_name_jpsp_09_7",
+    "en": "Level 7 hits the shard of spirit",
     "size_en": "",
     "zh": "7级命中精魄碎片"
   },
   {
     "id": "material_name_jpsp_09_8",
     "desc": "",
-    "en": "material_name_jpsp_09_8",
+    "en": "Level 8 hits the shard of spirit",
     "size_en": "",
     "zh": "8级命中精魄碎片"
   },
   {
     "id": "material_name_jpsp_09_9",
     "desc": "",
-    "en": "material_name_jpsp_09_9",
+    "en": "Level 9 hits the shard of spirit",
     "size_en": "",
     "zh": "9级命中精魄碎片"
   },
   {
     "id": "material_name_jpsp_10_1",
     "desc": "",
-    "en": "material_name_jpsp_10_1",
+    "en": "Level 1 Evasion of Spirit Shards",
     "size_en": "",
     "zh": "1级闪避精魄碎片"
   },
   {
     "id": "material_name_jpsp_10_2",
     "desc": "",
-    "en": "material_name_jpsp_10_2",
+    "en": "Level 2 Evasion of Spirit Shards",
     "size_en": "",
     "zh": "2级闪避精魄碎片"
   },
   {
     "id": "material_name_jpsp_10_3",
     "desc": "",
-    "en": "material_name_jpsp_10_3",
+    "en": "Level 3 Evasion of Spirit Shards",
     "size_en": "",
     "zh": "3级闪避精魄碎片"
   },
   {
     "id": "material_name_jpsp_10_4",
     "desc": "",
-    "en": "material_name_jpsp_10_4",
+    "en": "Level 4 Evasion of Spirit Shards",
     "size_en": "",
     "zh": "4级闪避精魄碎片"
   },
   {
     "id": "material_name_jpsp_10_5",
     "desc": "",
-    "en": "material_name_jpsp_10_5",
+    "en": "Level 5 Evasion of Spirit Shards",
     "size_en": "",
     "zh": "5级闪避精魄碎片"
   },
   {
     "id": "material_name_jpsp_10_6",
     "desc": "",
-    "en": "material_name_jpsp_10_6",
+    "en": "Level 6 Evasion of Spirit Shards",
     "size_en": "",
     "zh": "6级闪避精魄碎片"
   },
   {
     "id": "material_name_jpsp_10_7",
     "desc": "",
-    "en": "material_name_jpsp_10_7",
+    "en": "Level 7 dodge essence fragments",
     "size_en": "",
     "zh": "7级闪避精魄碎片"
   },
   {
     "id": "material_name_jpsp_10_8",
     "desc": "",
-    "en": "material_name_jpsp_10_8",
+    "en": "Level 8 Evasion of Spirit Shards",
     "size_en": "",
     "zh": "8级闪避精魄碎片"
   },
   {
     "id": "material_name_jpsp_10_9",
     "desc": "",
-    "en": "material_name_jpsp_10_9",
+    "en": "Level 9 Evasion of Spirit Shards",
     "size_en": "",
     "zh": "9级闪避精魄碎片"
   },
@@ -15027,126 +15027,126 @@
   {
     "id": "material_name_jpsp_12_1",
     "desc": "",
-    "en": "material_name_jpsp_12_1",
+    "en": "Level 1 Defensive Essence Fragment",
     "size_en": "",
     "zh": "1级防御精魄碎片"
   },
   {
     "id": "material_name_jpsp_12_2",
     "desc": "",
-    "en": "material_name_jpsp_12_2",
+    "en": "Level 2 Defense Essence Fragment",
     "size_en": "",
     "zh": "2级防御精魄碎片"
   },
   {
     "id": "material_name_jpsp_12_3",
     "desc": "",
-    "en": "material_name_jpsp_12_3",
+    "en": "Level 3 Defense Essence Fragment",
     "size_en": "",
     "zh": "3级防御精魄碎片"
   },
   {
     "id": "material_name_jpsp_12_4",
     "desc": "",
-    "en": "material_name_jpsp_12_4",
+    "en": "Level 4 Defensive Essence Fragment",
     "size_en": "",
     "zh": "4级防御精魄碎片"
   },
   {
     "id": "material_name_jpsp_12_5",
     "desc": "",
-    "en": "material_name_jpsp_12_5",
+    "en": "Level 5 Defensive Essence Fragment",
     "size_en": "",
     "zh": "5级防御精魄碎片"
   },
   {
     "id": "material_name_jpsp_12_6",
     "desc": "",
-    "en": "material_name_jpsp_12_6",
+    "en": "Level 6 Defensive Spirit Shard",
     "size_en": "",
     "zh": "6级防御精魄碎片"
   },
   {
     "id": "material_name_jpsp_12_7",
     "desc": "",
-    "en": "material_name_jpsp_12_7",
+    "en": "Level 7 Defensive Essence Fragment",
     "size_en": "",
     "zh": "7级防御精魄碎片"
   },
   {
     "id": "material_name_jpsp_12_8",
     "desc": "",
-    "en": "material_name_jpsp_12_8",
+    "en": "Level 8 Defensive Essence Fragment",
     "size_en": "",
     "zh": "8级防御精魄碎片"
   },
   {
     "id": "material_name_jpsp_12_9",
     "desc": "",
-    "en": "material_name_jpsp_12_9",
+    "en": "Level 9 Defensive Essence Fragment",
     "size_en": "",
     "zh": "9级防御精魄碎片"
   },
   {
     "id": "material_name_jpsp_13_1",
     "desc": "",
-    "en": "material_name_jpsp_13_1",
+    "en": "Level 1 Life Essence Fragment",
     "size_en": "",
     "zh": "1级生命精魄碎片"
   },
   {
     "id": "material_name_jpsp_13_2",
     "desc": "",
-    "en": "material_name_jpsp_13_2",
+    "en": "Level 2 Life Essence Fragment",
     "size_en": "",
     "zh": "2级生命精魄碎片"
   },
   {
     "id": "material_name_jpsp_13_3",
     "desc": "",
-    "en": "material_name_jpsp_13_3",
+    "en": "Level 3 Life Essence Fragment",
     "size_en": "",
     "zh": "3级生命精魄碎片"
   },
   {
     "id": "material_name_jpsp_13_4",
     "desc": "",
-    "en": "material_name_jpsp_13_4",
+    "en": "Level 4 Life Essence Fragment",
     "size_en": "",
     "zh": "4级生命精魄碎片"
   },
   {
     "id": "material_name_jpsp_13_5",
     "desc": "",
-    "en": "material_name_jpsp_13_5",
+    "en": "Level 5 Life Essence Fragment",
     "size_en": "",
     "zh": "5级生命精魄碎片"
   },
   {
     "id": "material_name_jpsp_13_6",
     "desc": "",
-    "en": "material_name_jpsp_13_6",
+    "en": "Level 6 Life Essence Fragment",
     "size_en": "",
     "zh": "6级生命精魄碎片"
   },
   {
     "id": "material_name_jpsp_13_7",
     "desc": "",
-    "en": "material_name_jpsp_13_7",
+    "en": "Level 7 Life Essence Fragment",
     "size_en": "",
     "zh": "7级生命精魄碎片"
   },
   {
     "id": "material_name_jpsp_13_8",
     "desc": "",
-    "en": "material_name_jpsp_13_8",
+    "en": "Level 8 Life Essence Fragment",
     "size_en": "",
     "zh": "8级生命精魄碎片"
   },
   {
     "id": "material_name_jpsp_13_9",
     "desc": "",
-    "en": "material_name_jpsp_13_9",
+    "en": "Level 9 Life Essence Fragment",
     "size_en": "",
     "zh": "9级生命精魄碎片"
   },
@@ -15342,63 +15342,63 @@
   {
     "id": "material_desc_jp_04_1",
     "desc": "",
-    "en": "material_desc_jp_04_1",
+    "en": "Magic Defense +10",
     "size_en": "",
     "zh": "魔法防御+10"
   },
   {
     "id": "material_desc_jp_04_2",
     "desc": "",
-    "en": "material_desc_jp_04_2",
+    "en": "Magic Defense +20",
     "size_en": "",
     "zh": "魔法防御+20"
   },
   {
     "id": "material_desc_jp_04_3",
     "desc": "",
-    "en": "material_desc_jp_04_3",
+    "en": "Magic Defense +30",
     "size_en": "",
     "zh": "魔法防御+30"
   },
   {
     "id": "material_desc_jp_04_4",
     "desc": "",
-    "en": "material_desc_jp_04_4",
+    "en": "Magic Defense +40",
     "size_en": "",
     "zh": "魔法防御+40"
   },
   {
     "id": "material_desc_jp_04_5",
     "desc": "",
-    "en": "material_desc_jp_04_5",
+    "en": "Magic Defense +50",
     "size_en": "",
     "zh": "魔法防御+50"
   },
   {
     "id": "material_desc_jp_04_6",
     "desc": "",
-    "en": "material_desc_jp_04_6",
+    "en": "Magic Defense +60",
     "size_en": "",
     "zh": "魔法防御+60"
   },
   {
     "id": "material_desc_jp_04_7",
     "desc": "",
-    "en": "material_desc_jp_04_7",
+    "en": "Magic Defense +70",
     "size_en": "",
     "zh": "魔法防御+70"
   },
   {
     "id": "material_desc_jp_04_8",
     "desc": "",
-    "en": "material_desc_jp_04_8",
+    "en": "Magic Defense +80",
     "size_en": "",
     "zh": "魔法防御+80"
   },
   {
     "id": "material_desc_jp_04_9",
     "desc": "",
-    "en": "material_desc_jp_04_9",
+    "en": "Magic Defense +100",
     "size_en": "",
     "zh": "魔法防御+100"
   },
@@ -15783,189 +15783,189 @@
   {
     "id": "material_desc_jp_11_1",
     "desc": "",
-    "en": "material_desc_jp_11_1",
+    "en": "Attack power +50",
     "size_en": "",
     "zh": "攻击力+50"
   },
   {
     "id": "material_desc_jp_11_2",
     "desc": "",
-    "en": "material_desc_jp_11_2",
+    "en": "Attack power +100",
     "size_en": "",
     "zh": "攻击力+100"
   },
   {
     "id": "material_desc_jp_11_3",
     "desc": "",
-    "en": "material_desc_jp_11_3",
+    "en": "Attack power +150",
     "size_en": "",
     "zh": "攻击力+150"
   },
   {
     "id": "material_desc_jp_11_4",
     "desc": "",
-    "en": "material_desc_jp_11_4",
+    "en": "Attack power +200",
     "size_en": "",
     "zh": "攻击力+200"
   },
   {
     "id": "material_desc_jp_11_5",
     "desc": "",
-    "en": "material_desc_jp_11_5",
+    "en": "Attack power +250",
     "size_en": "",
     "zh": "攻击力+250"
   },
   {
     "id": "material_desc_jp_11_6",
     "desc": "",
-    "en": "material_desc_jp_11_6",
+    "en": "Attack power +300",
     "size_en": "",
     "zh": "攻击力+300"
   },
   {
     "id": "material_desc_jp_11_7",
     "desc": "",
-    "en": "material_desc_jp_11_7",
+    "en": "Attack power +350",
     "size_en": "",
     "zh": "攻击力+350"
   },
   {
     "id": "material_desc_jp_11_8",
     "desc": "",
-    "en": "material_desc_jp_11_8",
+    "en": "Attack power +400",
     "size_en": "",
     "zh": "攻击力+400"
   },
   {
     "id": "material_desc_jp_11_9",
     "desc": "",
-    "en": "material_desc_jp_11_9",
+    "en": "Attack power +500",
     "size_en": "",
     "zh": "攻击力+500"
   },
   {
     "id": "material_desc_jp_12_1",
     "desc": "",
-    "en": "material_desc_jp_12_1",
+    "en": "Defense +10",
     "size_en": "",
     "zh": "防御力+10"
   },
   {
     "id": "material_desc_jp_12_2",
     "desc": "",
-    "en": "material_desc_jp_12_2",
+    "en": "Defense +20",
     "size_en": "",
     "zh": "防御力+20"
   },
   {
     "id": "material_desc_jp_12_3",
     "desc": "",
-    "en": "material_desc_jp_12_3",
+    "en": "Defense +30",
     "size_en": "",
     "zh": "防御力+30"
   },
   {
     "id": "material_desc_jp_12_4",
     "desc": "",
-    "en": "material_desc_jp_12_4",
+    "en": "Defense +40",
     "size_en": "",
     "zh": "防御力+40"
   },
   {
     "id": "material_desc_jp_12_5",
     "desc": "",
-    "en": "material_desc_jp_12_5",
+    "en": "Defense +50",
     "size_en": "",
     "zh": "防御力+50"
   },
   {
     "id": "material_desc_jp_12_6",
     "desc": "",
-    "en": "material_desc_jp_12_6",
+    "en": "Defense +60",
     "size_en": "",
     "zh": "防御力+60"
   },
   {
     "id": "material_desc_jp_12_7",
     "desc": "",
-    "en": "material_desc_jp_12_7",
+    "en": "Defense +70",
     "size_en": "",
     "zh": "防御力+70"
   },
   {
     "id": "material_desc_jp_12_8",
     "desc": "",
-    "en": "material_desc_jp_12_8",
+    "en": "Defense +80",
     "size_en": "",
     "zh": "防御力+80"
   },
   {
     "id": "material_desc_jp_12_9",
     "desc": "",
-    "en": "material_desc_jp_12_9",
+    "en": "Defense +100",
     "size_en": "",
     "zh": "防御力+100"
   },
   {
     "id": "material_desc_jp_13_1",
     "desc": "",
-    "en": "material_desc_jp_13_1",
+    "en": "HP +50",
     "size_en": "",
     "zh": "生命值+50"
   },
   {
     "id": "material_desc_jp_13_2",
     "desc": "",
-    "en": "material_desc_jp_13_2",
+    "en": "HP +100",
     "size_en": "",
     "zh": "生命值+100"
   },
   {
     "id": "material_desc_jp_13_3",
     "desc": "",
-    "en": "material_desc_jp_13_3",
+    "en": "HP +150",
     "size_en": "",
     "zh": "生命值+150"
   },
   {
     "id": "material_desc_jp_13_4",
     "desc": "",
-    "en": "material_desc_jp_13_4",
+    "en": "HP +200",
     "size_en": "",
     "zh": "生命值+200"
   },
   {
     "id": "material_desc_jp_13_5",
     "desc": "",
-    "en": "material_desc_jp_13_5",
+    "en": "HP +250",
     "size_en": "",
     "zh": "生命值+250"
   },
   {
     "id": "material_desc_jp_13_6",
     "desc": "",
-    "en": "material_desc_jp_13_6",
+    "en": "HP +300",
     "size_en": "",
     "zh": "生命值+300"
   },
   {
     "id": "material_desc_jp_13_7",
     "desc": "",
-    "en": "material_desc_jp_13_7",
+    "en": "HP +350",
     "size_en": "",
     "zh": "生命值+350"
   },
   {
     "id": "material_desc_jp_13_8",
     "desc": "",
-    "en": "material_desc_jp_13_8",
+    "en": "HP +400",
     "size_en": "",
     "zh": "生命值+400"
   },
   {
     "id": "material_desc_jp_13_9",
     "desc": "",
-    "en": "material_desc_jp_13_9",
+    "en": "HP +500",
     "size_en": "",
     "zh": "生命值+500"
   },
@@ -16917,21 +16917,21 @@
   {
     "id": "card_desc_101",
     "desc": "",
-    "en": "card_desc_101",
+    "en": "Increase damage by 5% to poisonous spider monsters",
     "size_en": "",
     "zh": "对毒爆蜘蛛怪物造成5%额外伤害"
   },
   {
     "id": "card_desc_102",
     "desc": "",
-    "en": "card_desc_102",
+    "en": "Increase damage by 5%  to the little snowman monster",
     "size_en": "",
     "zh": "对小雪人怪物造成5%额外伤害"
   },
   {
     "id": "card_desc_103",
     "desc": "",
-    "en": "card_desc_103",
+    "en": "Increase damage by 5%  to Wind and Fire Wolf monsters",
     "size_en": "",
     "zh": "对风火狼怪物造成5%额外伤害"
   },
@@ -16945,98 +16945,98 @@
   {
     "id": "card_desc_105",
     "desc": "",
-    "en": "card_desc_105",
+    "en": "Increase damage by 5% to the dragon scorpion monster",
     "size_en": "",
     "zh": "对小龙蝎怪物造成5%额外伤害"
   },
   {
     "id": "card_desc_106",
     "desc": "",
-    "en": "card_desc_106",
+    "en": "Increase damage by 5% to ghost monsters",
     "size_en": "",
     "zh": "对幽灵怪物造成5%额外伤害"
   },
   {
     "id": "card_desc_107",
     "desc": "",
-    "en": "card_desc_107",
+    "en": "Increase damage by 5% to potato miners",
     "size_en": "",
     "zh": "对土豆矿工造成5%额外伤害"
   },
   {
     "id": "card_desc_108",
     "desc": "",
-    "en": "card_desc_108",
+    "en": "Increase damage by 5%  to Treant monsters",
     "size_en": "",
     "zh": "对树人怪物造成5%额外伤害"
   },
   {
     "id": "card_desc_109",
     "desc": "",
-    "en": "card_desc_109",
+    "en": "Increase damage by 5%  to Tusk monsters",
     "size_en": "",
     "zh": "对獠牙兽怪物造成5%额外伤害"
   },
   {
     "id": "card_desc_201",
     "desc": "",
-    "en": "card_desc_201",
+    "en": "Increase damage by 5%  to Broodmother monsters",
     "size_en": "",
     "zh": "对育母蜘蛛怪物造成5%额外伤害"
   },
   {
     "id": "card_desc_202",
     "desc": "",
-    "en": "card_desc_202",
+    "en": "Increase damage by 5%  to Yeti King monsters",
     "size_en": "",
     "zh": "对雪人王怪物造成5%额外伤害"
   },
   {
     "id": "card_desc_203",
     "desc": "",
-    "en": "card_desc_203",
+    "en": "Increase damage by 5%  to Shadow Wolf monsters",
     "size_en": "",
     "zh": "对暗影狼怪物造成5%额外伤害"
   },
   {
     "id": "card_desc_204",
     "desc": "",
-    "en": "card_desc_204",
+    "en": "Increase damage by 5%  to cactus monsters",
     "size_en": "",
     "zh": "对仙人掌兽怪物造成5%额外伤害"
   },
   {
     "id": "card_desc_205",
     "desc": "",
-    "en": "card_desc_205",
+    "en": "Increase damage by 5%  to Australian Dragon Scorpion monsters",
     "size_en": "",
     "zh": "对澳洲龙蝎怪物造成5%额外伤害"
   },
   {
     "id": "card_desc_206",
     "desc": "",
-    "en": "card_desc_206",
+    "en": "Increase damage by 5%  to Nightmare monsters",
     "size_en": "",
     "zh": "对梦魇怪物造成5%额外伤害"
   },
   {
     "id": "card_desc_207",
     "desc": "",
-    "en": "card_desc_207",
+    "en": "Increase damage by 5%  to Potato Foreman monsters",
     "size_en": "",
     "zh": "对土豆包工头怪物造成5%额外伤害"
   },
   {
     "id": "card_desc_208",
     "desc": "",
-    "en": "card_desc_208",
+    "en": "Increase damage by 5%  to disguised Dryad monsters",
     "size_en": "",
     "zh": "对伪装树妖怪物造成5%额外伤害"
   },
   {
     "id": "card_desc_209",
     "desc": "",
-    "en": "card_desc_209",
+    "en": "Increase damage by 5%  to the King of Steelfang monsters",
     "size_en": "",
     "zh": "对钢牙王怪物造成5%额外伤害"
   },
